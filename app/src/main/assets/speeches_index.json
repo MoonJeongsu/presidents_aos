@@ -1,0 +1,4041 @@
+[
+  {
+    "id": "acceptance_speech_at_the_democratic_national_con_bbe11fb8d976",
+    "presidentId": "barack_obama",
+    "title": "Acceptance Speech at the Democratic National Convention (August 28, 2008)",
+    "date": "2008-08-28",
+    "presidentName": "Barack Obama"
+  },
+  {
+    "id": "remarks_on_election_night_november_4_2008_3241f07bd139",
+    "presidentId": "barack_obama",
+    "title": "Remarks on Election Night (November 4, 2008)",
+    "date": "2008-11-04",
+    "presidentName": "Barack Obama"
+  },
+  {
+    "id": "inaugural_address_january_20_2009_60ba7026f83b",
+    "presidentId": "barack_obama",
+    "title": "Inaugural Address (January 20, 2009)",
+    "date": "2009-01-20",
+    "presidentName": "Barack Obama"
+  },
+  {
+    "id": "address_before_a_joint_session_of_congress_febru_663e98d4eaa6",
+    "presidentId": "barack_obama",
+    "title": "Address Before a Joint Session of Congress (February 24, 2009)",
+    "date": "2009-02-24",
+    "presidentName": "Barack Obama"
+  },
+  {
+    "id": "address_at_cairo_university_june_4_2009_93f34d370c64",
+    "presidentId": "barack_obama",
+    "title": "Address at Cairo University (June 4, 2009)",
+    "date": "2009-06-04",
+    "presidentName": "Barack Obama"
+  },
+  {
+    "id": "address_to_congress_on_health_care_september_9_2_2f128093a426",
+    "presidentId": "barack_obama",
+    "title": "Address to Congress on Health Care (September 9, 2009)",
+    "date": "2009-09-09",
+    "presidentName": "Barack Obama"
+  },
+  {
+    "id": "state_of_the_union_address_january_27_2010_f1942c3c2e9f",
+    "presidentId": "barack_obama",
+    "title": "State of the Union Address (January 27, 2010)",
+    "date": "2010-01-27",
+    "presidentName": "Barack Obama"
+  },
+  {
+    "id": "first_inaugural_address_january_20_2001_da7f36a29e2e",
+    "presidentId": "george_w_bush",
+    "title": "First Inaugural Address (January 20, 2001)",
+    "date": "2001-01-20",
+    "presidentName": "George W. Bush"
+  },
+  {
+    "id": "remarks_on_signing_the_economic_growth_and_tax_r_22ab4f314bc0",
+    "presidentId": "george_w_bush",
+    "title": "Remarks on Signing the Economic Growth and Tax Relief Reconciliation Act (June 7, 2001)",
+    "date": "2001-06-07",
+    "presidentName": "George W. Bush"
+  },
+  {
+    "id": "state_of_the_union_address_january_29_2002_8a468b2a1228",
+    "presidentId": "george_w_bush",
+    "title": "State of the Union Address (January 29, 2002)",
+    "date": "2002-01-29",
+    "presidentName": "George W. Bush"
+  },
+  {
+    "id": "state_of_the_union_address_january_28_2003_208ef13e7c8d",
+    "presidentId": "george_w_bush",
+    "title": "State of the Union Address (January 28, 2003)",
+    "date": "2003-01-28",
+    "presidentName": "George W. Bush"
+  },
+  {
+    "id": "state_of_the_union_address_january_20_2004_88ea0966c462",
+    "presidentId": "george_w_bush",
+    "title": "State of the Union Address (January 20, 2004)",
+    "date": "2004-01-20",
+    "presidentName": "George W. Bush"
+  },
+  {
+    "id": "second_inaugural_address_january_20_2005_fb413c9935ae",
+    "presidentId": "george_w_bush",
+    "title": "Second Inaugural Address (January 20, 2005)",
+    "date": "2005-01-20",
+    "presidentName": "George W. Bush"
+  },
+  {
+    "id": "state_of_the_union_address_february_2_2005_682e84723eed",
+    "presidentId": "george_w_bush",
+    "title": "State of the Union Address (February 2, 2005)",
+    "date": "2005-02-02",
+    "presidentName": "George W. Bush"
+  },
+  {
+    "id": "state_of_the_union_address_january_31_2006_93756233738f",
+    "presidentId": "george_w_bush",
+    "title": "State of the Union Address (January 31, 2006)",
+    "date": "2006-01-31",
+    "presidentName": "George W. Bush"
+  },
+  {
+    "id": "state_of_the_union_address_january_23_2007_8546d046bd96",
+    "presidentId": "george_w_bush",
+    "title": "State of the Union Address (January 23, 2007)",
+    "date": "2007-01-23",
+    "presidentName": "George W. Bush"
+  },
+  {
+    "id": "state_of_the_union_address_january_28_2008_ce0dd86aeda0",
+    "presidentId": "george_w_bush",
+    "title": "State of the Union Address (January 28, 2008)",
+    "date": "2008-01-28",
+    "presidentName": "George W. Bush"
+  },
+  {
+    "id": "remarks_on_the_war_on_terror_march_19_2008_4a6dc7230da7",
+    "presidentId": "george_w_bush",
+    "title": "Remarks on the War on Terror (March 19, 2008)",
+    "date": "2008-03-19",
+    "presidentName": "George W. Bush"
+  },
+  {
+    "id": "farewell_address_to_the_nation_january_15_2009_368ac14f78ae",
+    "presidentId": "george_w_bush",
+    "title": "Farewell Address to the Nation (January 15, 2009)",
+    "date": "2009-01-15",
+    "presidentName": "George W. Bush"
+  },
+  {
+    "id": "first_inaugural_january_20_1993_c882a8f60a25",
+    "presidentId": "bill_clinton",
+    "title": "First Inaugural (January 20, 1993)",
+    "date": "1993-01-20",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "press_conference_on_gays_in_the_military_january_cbb727c47d29",
+    "presidentId": "bill_clinton",
+    "title": "Press Conference on 'Gays in the Military' (January 29, 1993)",
+    "date": "1993-01-29",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "remarks_at_the_signing_of_the_family_medical_lea_67258b7b5a7f",
+    "presidentId": "bill_clinton",
+    "title": "Remarks at the Signing of the Family Medical Leave Act (February 5, 1993)",
+    "date": "1993-02-05",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "address_before_a_joint_session_of_congress_febru_c228f66ba7dd",
+    "presidentId": "bill_clinton",
+    "title": "Address Before a Joint Session of Congress (February 17, 1993)",
+    "date": "1993-02-17",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "national_service_address_april_30_1993_09d936255829",
+    "presidentId": "bill_clinton",
+    "title": "National Service Address (April 30, 1993)",
+    "date": "1993-04-30",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "remarks_on_operation_restore_hope_may_5_1993_f8f3a62b6040",
+    "presidentId": "bill_clinton",
+    "title": "Remarks on Operation Restore Hope (May 5, 1993)",
+    "date": "1993-05-05",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "speech_at_the_25th_anniversary_memorial_mass_for_9e39f635cdea",
+    "presidentId": "bill_clinton",
+    "title": "Speech at the 25th Anniversary Memorial Mass for Robert F. Kennedy (June 6, 1993)",
+    "date": "1993-06-06",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "remarks_at_the_signing_of_the_israeli_palestinia_aac9c53cabb9",
+    "presidentId": "bill_clinton",
+    "title": "Remarks at the Signing of the Israeli-Palestinian Agreement (September 13, 1993)",
+    "date": "1993-09-13",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "address_on_health_care_reform_september_22_1993_7ccf56c46386",
+    "presidentId": "bill_clinton",
+    "title": "Address on Health Care Reform (September 22, 1993)",
+    "date": "1993-09-22",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "address_on_somalia_october_7_1993_952f64ed4514",
+    "presidentId": "bill_clinton",
+    "title": "Address on Somalia (October 7, 1993)",
+    "date": "1993-10-07",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "remarks_to_the_convocation_of_the_church_of_god__993e9a4093c2",
+    "presidentId": "bill_clinton",
+    "title": "Remarks to the Convocation of the Church of God in Christ in Memphis (November 13, 1993)",
+    "date": "1993-11-13",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "remarks_on_the_signing_of_nafta_december_8_1993_cff9b524f156",
+    "presidentId": "bill_clinton",
+    "title": "Remarks on the Signing of NAFTA (December 8, 1993)",
+    "date": "1993-12-08",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "state_of_the_union_address_january_25_1994_1d9a1e0a72dc",
+    "presidentId": "bill_clinton",
+    "title": "State of the Union Address (January 25, 1994)",
+    "date": "1994-01-25",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "remarks_at_the_u_s_national_cemetery_june_6_1994_476e43b5f2d2",
+    "presidentId": "bill_clinton",
+    "title": "Remarks at the U.S. National Cemetery (June 6, 1994)",
+    "date": "1994-06-06",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "remarks_at_the_brandenburg_gate_june_12_1994_ce13f6dfb72e",
+    "presidentId": "bill_clinton",
+    "title": "Remarks at the Brandenburg Gate (June 12, 1994)",
+    "date": "1994-06-12",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "state_of_the_union_address_january_24_1995_e30525b34afc",
+    "presidentId": "bill_clinton",
+    "title": "State of the Union Address (January 24, 1995)",
+    "date": "1995-01-24",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "time_for_healing_ceremony_april_23_1995_9a90ad1e17c1",
+    "presidentId": "bill_clinton",
+    "title": "Time for Healing Ceremony (April 23, 1995)",
+    "date": "1995-04-23",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "address_on_affirmative_action_july_19_1995_e120000d80d5",
+    "presidentId": "bill_clinton",
+    "title": "Address on Affirmative Action (July 19, 1995)",
+    "date": "1995-07-19",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "address_on_race_relations_october_16_1995_3133a17f1843",
+    "presidentId": "bill_clinton",
+    "title": "Address on Race Relations (October 16, 1995)",
+    "date": "1995-10-16",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "address_on_bosnia_november_27_1995_002656bba3ad",
+    "presidentId": "bill_clinton",
+    "title": "Address on Bosnia (November 27, 1995)",
+    "date": "1995-11-27",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "address_to_the_employees_of_the_mackie_metal_pla_6547c59a75eb",
+    "presidentId": "bill_clinton",
+    "title": "Address to the Employees of the Mackie Metal Plant (November 30, 1995)",
+    "date": "1995-11-30",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "state_of_the_union_address_january_23_1996_0c8466cb3334",
+    "presidentId": "bill_clinton",
+    "title": "State of the Union Address (January 23, 1996)",
+    "date": "1996-01-23",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "victims_rights_announcement_june_25_1996_ff93dfdfbfc1",
+    "presidentId": "bill_clinton",
+    "title": "Victims Rights Announcement (June 25, 1996)",
+    "date": "1996-06-25",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "remarks_at_the_democratic_national_convention_au_e507a70188f9",
+    "presidentId": "bill_clinton",
+    "title": "Remarks at the Democratic National Convention (August 29, 1996)",
+    "date": "1996-08-29",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "presidential_debate_with_senator_bob_dole_octobe_dcd3b773f861",
+    "presidentId": "bill_clinton",
+    "title": "Presidential Debate with Senator Bob Dole (October 6, 1996)",
+    "date": "1996-10-06",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "remarks_to_the_congregation_of_st_paul_s_ame_chu_c8c67fe757dc",
+    "presidentId": "bill_clinton",
+    "title": "Remarks to the Congregation of St. Paul's AME Church (November 3, 1996)",
+    "date": "1996-11-03",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "second_inaugural_january_20_1997_6e970540c771",
+    "presidentId": "bill_clinton",
+    "title": "Second Inaugural (January 20, 1997)",
+    "date": "1997-01-20",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "state_of_the_union_address_february_4_1997_ce3f66088e9f",
+    "presidentId": "bill_clinton",
+    "title": "State of the Union Address (February 4, 1997)",
+    "date": "1997-02-04",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "address_to_the_people_and_relief_workers_of_gran_d70927427328",
+    "presidentId": "bill_clinton",
+    "title": "Address to the People and Relief Workers of Grand Forks, ND (April 22, 1997)",
+    "date": "1997-04-22",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "response_to_the_lewinsky_allegations_january_26__e61b7abcef3f",
+    "presidentId": "bill_clinton",
+    "title": "Response to the Lewinsky Allegations (January 26, 1998)",
+    "date": "1998-01-26",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "state_of_the_union_address_january_27_1998_3c3bf066c9a0",
+    "presidentId": "bill_clinton",
+    "title": "State of the Union Address (January 27, 1998)",
+    "date": "1998-01-27",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "remarks_to_the_people_of_ghana_march_23_1998_6eda2c00ad0c",
+    "presidentId": "bill_clinton",
+    "title": "Remarks to the People of Ghana (March 23, 1998)",
+    "date": "1998-03-23",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "remarks_to_the_people_of_rwanda_march_25_1998_52660cea4b0f",
+    "presidentId": "bill_clinton",
+    "title": "Remarks to the People of Rwanda (March 25, 1998)",
+    "date": "1998-03-25",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "statement_on_his_testimony_before_the_grand_jury_d21ceeef592e",
+    "presidentId": "bill_clinton",
+    "title": "Statement on His Testimony Before the Grand Jury (August 17, 1998)",
+    "date": "1998-08-17",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "state_of_the_union_address_january_19_1999_97573f04027c",
+    "presidentId": "bill_clinton",
+    "title": "State of the Union Address (January 19, 1999)",
+    "date": "1999-01-19",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "statement_on_kosovo_march_24_1999_909e7a1d3630",
+    "presidentId": "bill_clinton",
+    "title": "Statement on Kosovo (March 24, 1999)",
+    "date": "1999-03-24",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "address_on_the_kosovo_agreement_june_10_1999_5c4601a2fb01",
+    "presidentId": "bill_clinton",
+    "title": "Address on the Kosovo Agreement (June 10, 1999)",
+    "date": "1999-06-10",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "state_of_the_union_address_january_27_2000_73b8e47c93fb",
+    "presidentId": "bill_clinton",
+    "title": "State of the Union Address (January 27, 2000)",
+    "date": "2000-01-27",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "farewell_address_january_18_2001_8f7d6c4824bb",
+    "presidentId": "bill_clinton",
+    "title": "Farewell Address (January 18, 2001)",
+    "date": "2001-01-18",
+    "presidentName": "Bill Clinton"
+  },
+  {
+    "id": "acceptance_speech_at_the_republican_national_con_3065e6da80ca",
+    "presidentId": "george_h_w_bush",
+    "title": "Acceptance Speech at the Republican National Convention (August 18, 1988)",
+    "date": "1988-08-18",
+    "presidentName": "George H. W. Bush"
+  },
+  {
+    "id": "debate_with_michael_dukakis_september_25_1988_61fc58569f7f",
+    "presidentId": "george_h_w_bush",
+    "title": "Debate with Michael Dukakis (September 25, 1988)",
+    "date": "1988-09-25",
+    "presidentName": "George H. W. Bush"
+  },
+  {
+    "id": "inaugural_address_january_20_1989_e406e7b7b455",
+    "presidentId": "george_h_w_bush",
+    "title": "Inaugural Address (January 20, 1989)",
+    "date": "1989-01-20",
+    "presidentName": "George H. W. Bush"
+  },
+  {
+    "id": "address_before_a_joint_session_of_congress_febru_9d2570c20ee0",
+    "presidentId": "george_h_w_bush",
+    "title": "Address Before a Joint Session of Congress (February 9, 1989)",
+    "date": "1989-02-09",
+    "presidentName": "George H. W. Bush"
+  },
+  {
+    "id": "commencement_address_at_texas_a_m_university_may_7c85a1db49ee",
+    "presidentId": "george_h_w_bush",
+    "title": "Commencement Address at Texas A&M University (May 12, 1989)",
+    "date": "1989-05-12",
+    "presidentName": "George H. W. Bush"
+  },
+  {
+    "id": "address_to_the_nation_on_panama_december_20_1989_d2ba49285511",
+    "presidentId": "george_h_w_bush",
+    "title": "Address to the Nation on Panama (December 20, 1989)",
+    "date": "1989-12-20",
+    "presidentName": "George H. W. Bush"
+  },
+  {
+    "id": "state_of_the_union_address_january_31_1990_236c080176be",
+    "presidentId": "george_h_w_bush",
+    "title": "State of the Union Address (January 31, 1990)",
+    "date": "1990-01-31",
+    "presidentName": "George H. W. Bush"
+  },
+  {
+    "id": "remarks_on_the_signing_of_the_americans_with_dis_ff061f43ab02",
+    "presidentId": "george_h_w_bush",
+    "title": "Remarks on the Signing of the Americans with Disabilities Act (July 26, 1990)",
+    "date": "1990-07-26",
+    "presidentName": "George H. W. Bush"
+  },
+  {
+    "id": "address_on_iraq_s_invasion_of_kuwait_august_8_19_2a5e81c71045",
+    "presidentId": "george_h_w_bush",
+    "title": "Address on Iraq's Invasion of Kuwait (August 8, 1990)",
+    "date": "1990-08-08",
+    "presidentName": "George H. W. Bush"
+  },
+  {
+    "id": "address_before_a_joint_session_of_congress_septe_61826b3bb811",
+    "presidentId": "george_h_w_bush",
+    "title": "Address Before a Joint Session of Congress (September 11, 1990)",
+    "date": "1990-09-11",
+    "presidentName": "George H. W. Bush"
+  },
+  {
+    "id": "address_to_the_united_nations_october_1_1990_772fac66fe73",
+    "presidentId": "george_h_w_bush",
+    "title": "Address to the United Nations (October 1, 1990)",
+    "date": "1990-10-01",
+    "presidentName": "George H. W. Bush"
+  },
+  {
+    "id": "address_to_the_nation_on_the_budget_october_2_19_22184e8de81a",
+    "presidentId": "george_h_w_bush",
+    "title": "Address to the Nation on the Budget (October 2, 1990)",
+    "date": "1990-10-02",
+    "presidentName": "George H. W. Bush"
+  },
+  {
+    "id": "address_to_the_nation_on_the_invasion_of_iraq_ja_9417a60e3742",
+    "presidentId": "george_h_w_bush",
+    "title": "Address to the Nation on the Invasion of Iraq (January 16, 1991)",
+    "date": "1991-01-16",
+    "presidentName": "George H. W. Bush"
+  },
+  {
+    "id": "state_of_the_union_address_january_29_1991_8275eb384b37",
+    "presidentId": "george_h_w_bush",
+    "title": "State of the Union Address (January 29, 1991)",
+    "date": "1991-01-29",
+    "presidentName": "George H. W. Bush"
+  },
+  {
+    "id": "address_on_the_end_of_the_gulf_war_february_27_1_45e63de31ce3",
+    "presidentId": "george_h_w_bush",
+    "title": "Address on the End of the Gulf War (February 27, 1991)",
+    "date": "1991-02-27",
+    "presidentName": "George H. W. Bush"
+  },
+  {
+    "id": "address_before_a_joint_session_of_congress_on_th_9b1c6a2d1152",
+    "presidentId": "george_h_w_bush",
+    "title": "Address Before a Joint Session of Congress on the End of the Gulf War (March 6, 1991)",
+    "date": "1991-03-06",
+    "presidentName": "George H. W. Bush"
+  },
+  {
+    "id": "press_conference_with_mikhail_gorbachev_july_31__60350cb397d1",
+    "presidentId": "george_h_w_bush",
+    "title": "Press Conference with Mikhail Gorbachev (July 31, 1991)",
+    "date": "1991-07-31",
+    "presidentName": "George H. W. Bush"
+  },
+  {
+    "id": "state_of_the_union_address_january_28_1992_f8602ed90229",
+    "presidentId": "george_h_w_bush",
+    "title": "State of the Union Address (January 28, 1992)",
+    "date": "1992-01-28",
+    "presidentName": "George H. W. Bush"
+  },
+  {
+    "id": "republican_national_convention_august_20_1992_c346fb142153",
+    "presidentId": "george_h_w_bush",
+    "title": "Republican National Convention (August 20, 1992)",
+    "date": "1992-08-20",
+    "presidentName": "George H. W. Bush"
+  },
+  {
+    "id": "debate_with_bill_clinton_and_ross_perot_october__0e4c44197438",
+    "presidentId": "george_h_w_bush",
+    "title": "Debate with Bill Clinton and Ross Perot (October 11, 1992)",
+    "date": "1992-10-11",
+    "presidentName": "George H. W. Bush"
+  },
+  {
+    "id": "address_on_somalia_december_4_1992_aaaa7a65fdff",
+    "presidentId": "george_h_w_bush",
+    "title": "Address on Somalia (December 4, 1992)",
+    "date": "1992-12-04",
+    "presidentName": "George H. W. Bush"
+  },
+  {
+    "id": "remarks_at_texas_a_m_university_december_15_1992_bbb514e0b5f6",
+    "presidentId": "george_h_w_bush",
+    "title": "Remarks at Texas A&M University (December 15, 1992)",
+    "date": "1992-12-15",
+    "presidentName": "George H. W. Bush"
+  },
+  {
+    "id": "address_at_west_point_january_5_1993_cd29af3595ce",
+    "presidentId": "george_h_w_bush",
+    "title": "Address at West Point (January 5, 1993)",
+    "date": "1993-01-05",
+    "presidentName": "George H. W. Bush"
+  },
+  {
+    "id": "a_time_for_choosing_october_27_1964_d4877a492014",
+    "presidentId": "ronald_reagan",
+    "title": "'A Time for Choosing' (October 27, 1964)",
+    "date": "1964-10-27",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "remarks_at_the_republican_national_convention_au_3c4e2c05479b",
+    "presidentId": "ronald_reagan",
+    "title": "Remarks at the Republican National Convention (August 19, 1976)",
+    "date": "1976-08-19",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "announcement_for_presidential_candidacy_november_2a38eda097a7",
+    "presidentId": "ronald_reagan",
+    "title": "Announcement for Presidential Candidacy (November 13, 1979)",
+    "date": "1979-11-13",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "republican_national_convention_july_17_1980_e8e275f22f31",
+    "presidentId": "ronald_reagan",
+    "title": "Republican National Convention (July 17, 1980)",
+    "date": "1980-07-17",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "first_inaugural_address_january_20_1981_8971f5f7e55f",
+    "presidentId": "ronald_reagan",
+    "title": "First Inaugural Address (January 20, 1981)",
+    "date": "1981-01-20",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "first_press_conference_january_29_1981_d9bca791f07a",
+    "presidentId": "ronald_reagan",
+    "title": "First Press Conference (January 29, 1981)",
+    "date": "1981-01-29",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "address_on_the_program_for_economic_recovery_apr_cf2025a4bb1a",
+    "presidentId": "ronald_reagan",
+    "title": "Address on the Program for Economic Recovery (April 28, 1981)",
+    "date": "1981-04-28",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "address_at_university_of_notre_dame_may_17_1981_ea973660fd28",
+    "presidentId": "ronald_reagan",
+    "title": "Address at University of Notre Dame (May 17, 1981)",
+    "date": "1981-05-17",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "speech_to_the_naacp_annual_convention_june_29_19_8ec4fcbdb598",
+    "presidentId": "ronald_reagan",
+    "title": "Speech to the NAACP Annual Convention (June 29, 1981)",
+    "date": "1981-06-29",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "address_on_federal_tax_reduction_legislation_jul_f0e077e62932",
+    "presidentId": "ronald_reagan",
+    "title": "Address on Federal Tax Reduction Legislation (July 27, 1981)",
+    "date": "1981-07-27",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "remarks_on_the_air_traffic_controllers_strike_au_7156d5946380",
+    "presidentId": "ronald_reagan",
+    "title": "Remarks on the Air Traffic Controllers Strike (August 3, 1981)",
+    "date": "1981-08-03",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "speech_on_the_strategic_arms_reduction_talks_nov_b16c3b5f1fcc",
+    "presidentId": "ronald_reagan",
+    "title": "Speech on the Strategic Arms Reduction Talks (November 18, 1981)",
+    "date": "1981-11-18",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "address_to_the_nation_on_christmas_and_the_situa_162cff25e8ed",
+    "presidentId": "ronald_reagan",
+    "title": "Address to the Nation on Christmas and the Situation in Poland (December 23, 1981)",
+    "date": "1981-12-23",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "state_of_the_union_address_january_26_1982_436c5243b84a",
+    "presidentId": "ronald_reagan",
+    "title": "State of the Union Address (January 26, 1982)",
+    "date": "1982-01-26",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "address_to_the_british_parliament_june_8_1982_d4009bcc136d",
+    "presidentId": "ronald_reagan",
+    "title": "Address to the British Parliament (June 8, 1982)",
+    "date": "1982-06-08",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "address_to_the_bundestag_in_west_germany_june_9__3458a31ba84f",
+    "presidentId": "ronald_reagan",
+    "title": "Address to the Bundestag in West Germany (June 9, 1982)",
+    "date": "1982-06-09",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "speech_to_the_united_nations_general_assembly_ju_88df90e83e46",
+    "presidentId": "ronald_reagan",
+    "title": "Speech to the United Nations General Assembly (June 17, 1982)",
+    "date": "1982-06-17",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "address_on_tax_and_budget_legislation_august_16__4f92f76f0262",
+    "presidentId": "ronald_reagan",
+    "title": "Address on Tax and Budget Legislation (August 16, 1982)",
+    "date": "1982-08-16",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "speech_to_the_nation_on_u_s_policy_in_the_middle_21e5c203c55d",
+    "presidentId": "ronald_reagan",
+    "title": "Speech to the Nation on U.S. Policy in the Middle East (September 1, 1982)",
+    "date": "1982-09-01",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "address_to_the_nation_on_lebanon_september_20_19_a68ee354b6f5",
+    "presidentId": "ronald_reagan",
+    "title": "Address to the Nation on Lebanon (September 20, 1982)",
+    "date": "1982-09-20",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "state_of_the_union_address_january_25_1983_3568a0e4b026",
+    "presidentId": "ronald_reagan",
+    "title": "State of the Union Address (January 25, 1983)",
+    "date": "1983-01-25",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "speech_at_the_conservative_political_action_conf_baa415dcf2aa",
+    "presidentId": "ronald_reagan",
+    "title": "Speech at the Conservative Political Action Conference (February 18, 1983)",
+    "date": "1983-02-18",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "evil_empire_speech_march_8_1983_a1c8161796ff",
+    "presidentId": "ronald_reagan",
+    "title": "'Evil Empire' Speech (March 8, 1983)",
+    "date": "1983-03-08",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "address_to_the_nation_on_national_security_march_5f87f94b0beb",
+    "presidentId": "ronald_reagan",
+    "title": "Address to the Nation on National Security (March 23, 1983)",
+    "date": "1983-03-23",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "address_on_central_america_april_27_1983_38523a44a2b3",
+    "presidentId": "ronald_reagan",
+    "title": "Address on Central America (April 27, 1983)",
+    "date": "1983-04-27",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "speech_on_the_soviet_attack_on_a_korean_airliner_c62d6497cfb3",
+    "presidentId": "ronald_reagan",
+    "title": "Speech on the Soviet Attack on a Korean Airliner (September 5, 1983)",
+    "date": "1983-09-05",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "speech_to_the_nation_on_lebanon_and_grenada_octo_2f868812d63e",
+    "presidentId": "ronald_reagan",
+    "title": "Speech to the Nation on Lebanon and Grenada (October 27, 1983)",
+    "date": "1983-10-27",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "speech_on_the_creation_of_the_martin_luther_king_eefb1b64d79e",
+    "presidentId": "ronald_reagan",
+    "title": "Speech on the Creation of the Martin Luther King, Jr., National Holiday (November 2, 1983)",
+    "date": "1983-11-02",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "remarks_on_u_s_casualties_in_lebanon_and_grenada_bf526a07cdc6",
+    "presidentId": "ronald_reagan",
+    "title": "Remarks on U.S. Casualties in Lebanon and Grenada (November 4, 1983)",
+    "date": "1983-11-04",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "state_of_the_union_address_january_25_1984_a3d2f350571e",
+    "presidentId": "ronald_reagan",
+    "title": "State of the Union Address (January 25, 1984)",
+    "date": "1984-01-25",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "address_announcing_his_candidacy_for_reelection__de784fd40df7",
+    "presidentId": "ronald_reagan",
+    "title": "Address Announcing His Candidacy for Reelection (January 29, 1984)",
+    "date": "1984-01-29",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "remarks_honoring_the_vietnam_war_s_unknown_soldi_c60a27fff2ad",
+    "presidentId": "ronald_reagan",
+    "title": "Remarks Honoring the Vietnam War's Unknown Soldier (May 28, 1984)",
+    "date": "1984-05-28",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "remarks_to_the_citizens_of_ballyporeen_ireland_j_1920223d9824",
+    "presidentId": "ronald_reagan",
+    "title": "Remarks to the Citizens of Ballyporeen, Ireland (June 3, 1984)",
+    "date": "1984-06-03",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "40th_anniversary_of_d_day_june_6_1984_ea1a44e5ce33",
+    "presidentId": "ronald_reagan",
+    "title": "40th Anniversary of D-Day (June 6, 1984)",
+    "date": "1984-06-06",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "republican_national_convention_august_23_1984_e4571fd0e679",
+    "presidentId": "ronald_reagan",
+    "title": "Republican National Convention (August 23, 1984)",
+    "date": "1984-08-23",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "debate_with_walter_mondale_domestic_issues_octob_84e919cbb817",
+    "presidentId": "ronald_reagan",
+    "title": "Debate with Walter Mondale (Domestic Issues) (October 7, 1984)",
+    "date": "1984-10-07",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "debate_with_walter_mondale_defense_and_foreign_p_f352c94fe16a",
+    "presidentId": "ronald_reagan",
+    "title": "Debate with Walter Mondale (Defense and Foreign Policy) (October 21, 1984)",
+    "date": "1984-10-21",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "second_inaugural_address_january_21_1985_bbd7e7e66284",
+    "presidentId": "ronald_reagan",
+    "title": "Second Inaugural Address (January 21, 1985)",
+    "date": "1985-01-21",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "state_of_the_union_address_february_6_1985_da084f49e28e",
+    "presidentId": "ronald_reagan",
+    "title": "State of the Union Address (February 6, 1985)",
+    "date": "1985-02-06",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "bergen_belsen_concentration_camp_may_5_1985_5cb8e47bfcd8",
+    "presidentId": "ronald_reagan",
+    "title": "Bergen-Belsen Concentration Camp (May 5, 1985)",
+    "date": "1985-05-05",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "speech_on_the_geneva_summit_november_21_1985_3459e32db0ba",
+    "presidentId": "ronald_reagan",
+    "title": "Speech on the Geneva Summit (November 21, 1985)",
+    "date": "1985-11-21",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "address_on_the_space_shuttle_challenger_january__a2792c3ef43b",
+    "presidentId": "ronald_reagan",
+    "title": "Address on the Space Shuttle 'Challenger' (January 28, 1986)",
+    "date": "1986-01-28",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "state_of_the_union_address_february_4_1986_9d4095df51b6",
+    "presidentId": "ronald_reagan",
+    "title": "State of the Union Address (February 4, 1986)",
+    "date": "1986-02-04",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "speech_to_the_nation_on_air_strikes_against_liby_d0bad4021e0c",
+    "presidentId": "ronald_reagan",
+    "title": "Speech to the Nation on Air Strikes Against Libya (April 14, 1986)",
+    "date": "1986-04-14",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "speech_to_the_nation_on_the_campaign_against_dru_74982b846b0b",
+    "presidentId": "ronald_reagan",
+    "title": "Speech to the Nation on the Campaign Against Drug Abuse (September 14, 1986)",
+    "date": "1986-09-14",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "address_on_the_meetings_with_soviet_premier_gorb_e049902b9493",
+    "presidentId": "ronald_reagan",
+    "title": "Address on the Meetings with Soviet Premier Gorbachev (October 13, 1986)",
+    "date": "1986-10-13",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "remarks_on_signing_the_tax_reform_act_october_22_2c649433ac38",
+    "presidentId": "ronald_reagan",
+    "title": "Remarks on Signing the Tax Reform Act (October 22, 1986)",
+    "date": "1986-10-22",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "state_of_the_union_address_january_27_1987_87aaaa489fb6",
+    "presidentId": "ronald_reagan",
+    "title": "State of the Union Address (January 27, 1987)",
+    "date": "1987-01-27",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "address_to_the_nation_on_iran_contra_march_4_198_b1c62665b75c",
+    "presidentId": "ronald_reagan",
+    "title": "Address to the Nation on Iran-Contra (March 4, 1987)",
+    "date": "1987-03-04",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "address_from_the_brandenburg_gate_berlin_wall_ju_c9db325dbfe4",
+    "presidentId": "ronald_reagan",
+    "title": "Address from the Brandenburg Gate (Berlin Wall) (June 12, 1987)",
+    "date": "1987-06-12",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "remarks_at_the_signing_of_the_inf_treaty_with_so_e131d7c0c11c",
+    "presidentId": "ronald_reagan",
+    "title": "Remarks at the Signing of the INF Treaty with Soviet Premier Gorbachev (December 8, 1987)",
+    "date": "1987-12-08",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "address_to_the_nation_on_the_soviet_u_s_summit_m_e3e4c55837fc",
+    "presidentId": "ronald_reagan",
+    "title": "Address to the Nation on the Soviet-U.S. Summit Meeting (December 10, 1987)",
+    "date": "1987-12-10",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "state_of_the_union_address_january_25_1988_d02989d75b9d",
+    "presidentId": "ronald_reagan",
+    "title": "State of the Union Address (January 25, 1988)",
+    "date": "1988-01-25",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "address_at_moscow_state_university_may_31_1988_de2c00d82833",
+    "presidentId": "ronald_reagan",
+    "title": "Address at Moscow State University (May 31, 1988)",
+    "date": "1988-05-31",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "farewell_address_at_the_republican_national_conv_b3d2508a2b89",
+    "presidentId": "ronald_reagan",
+    "title": "Farewell Address at the Republican National Convention (August 15, 1988)",
+    "date": "1988-08-15",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "address_to_the_united_nations_september_26_1988_aa9948ded094",
+    "presidentId": "ronald_reagan",
+    "title": "Address to the United Nations (September 26, 1988)",
+    "date": "1988-09-26",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "remarks_at_the_veteran_s_day_ceremony_november_1_9f4fb0338125",
+    "presidentId": "ronald_reagan",
+    "title": "Remarks at the Veteran's Day Ceremony (November 11, 1988)",
+    "date": "1988-11-11",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "speech_on_foreign_policy_december_16_1988_farewe_b4283f774efd",
+    "presidentId": "ronald_reagan",
+    "title": "Speech on Foreign Policy (December 16, 1988)Farewell Address (January 11, 1989)",
+    "date": "1989-01-11",
+    "presidentName": "Ronald Reagan"
+  },
+  {
+    "id": "debate_with_president_gerald_ford_domestic_issue_16ea19aa89af",
+    "presidentId": "jimmy_carter",
+    "title": "Debate with President Gerald Ford (Domestic Issues) (September 23, 1976)",
+    "date": "1976-09-23",
+    "presidentName": "Jimmy Carter"
+  },
+  {
+    "id": "debate_with_president_gerald_ford_foreign_and_de_fd617a023696",
+    "presidentId": "jimmy_carter",
+    "title": "Debate with President Gerald Ford (Foreign and Defense Issues) (October 6, 1976)",
+    "date": "1976-10-06",
+    "presidentName": "Jimmy Carter"
+  },
+  {
+    "id": "debate_with_president_gerald_ford_october_22_197_b3804fd23fe1",
+    "presidentId": "jimmy_carter",
+    "title": "Debate with President Gerald Ford (October 22, 1976)",
+    "date": "1976-10-22",
+    "presidentName": "Jimmy Carter"
+  },
+  {
+    "id": "inaugural_address_january_20_1977_44e9a75f5d94",
+    "presidentId": "jimmy_carter",
+    "title": "Inaugural Address (January 20, 1977)",
+    "date": "1977-01-20",
+    "presidentName": "Jimmy Carter"
+  },
+  {
+    "id": "report_to_the_american_people_on_energy_february_c68ef2957f64",
+    "presidentId": "jimmy_carter",
+    "title": "Report to the American People on Energy (February 2, 1977)",
+    "date": "1977-02-02",
+    "presidentName": "Jimmy Carter"
+  },
+  {
+    "id": "remarks_at_president_carter_s_press_conference_m_1b2fb1c77e21",
+    "presidentId": "jimmy_carter",
+    "title": "Remarks at President Carter's Press Conference (March 9, 1977)",
+    "date": "1977-03-09",
+    "presidentName": "Jimmy Carter"
+  },
+  {
+    "id": "address_to_the_nation_on_energy_april_18_1977_078861bed2ca",
+    "presidentId": "jimmy_carter",
+    "title": "Address to the Nation on Energy (April 18, 1977)",
+    "date": "1977-04-18",
+    "presidentName": "Jimmy Carter"
+  },
+  {
+    "id": "university_of_notre_dame_commencement_may_22_197_782bcbe4e654",
+    "presidentId": "jimmy_carter",
+    "title": "University of Notre Dame Commencement (May 22, 1977)",
+    "date": "1977-05-22",
+    "presidentName": "Jimmy Carter"
+  },
+  {
+    "id": "statement_on_the_panama_canal_treaty_signing_sep_6dfd52081335",
+    "presidentId": "jimmy_carter",
+    "title": "Statement on the Panama Canal Treaty Signing (September 7, 1977)",
+    "date": "1977-09-07",
+    "presidentName": "Jimmy Carter"
+  },
+  {
+    "id": "address_to_the_nation_on_energy_november_8_1977_60cc18043755",
+    "presidentId": "jimmy_carter",
+    "title": "Address to the Nation on Energy (November 8, 1977)",
+    "date": "1977-11-08",
+    "presidentName": "Jimmy Carter"
+  },
+  {
+    "id": "state_of_the_union_address_january_19_1978_502710c63c95",
+    "presidentId": "jimmy_carter",
+    "title": "State of the Union Address (January 19, 1978)",
+    "date": "1978-01-19",
+    "presidentName": "Jimmy Carter"
+  },
+  {
+    "id": "president_carter_s_remarks_on_joint_statement_at_65af1c4a4737",
+    "presidentId": "jimmy_carter",
+    "title": "President Carter's Remarks on Joint Statement at Camp David Summit (September 17, 1978)",
+    "date": "1978-09-17",
+    "presidentName": "Jimmy Carter"
+  },
+  {
+    "id": "anti_inflation_program_speech_october_24_1978_351312919bca",
+    "presidentId": "jimmy_carter",
+    "title": "Anti-Inflation Program Speech (October 24, 1978)",
+    "date": "1978-10-24",
+    "presidentName": "Jimmy Carter"
+  },
+  {
+    "id": "speech_on_establishing_diplomatic_relations_with_6118ae7139b5",
+    "presidentId": "jimmy_carter",
+    "title": "Speech on Establishing Diplomatic Relations with China (December 15, 1978)",
+    "date": "1978-12-15",
+    "presidentName": "Jimmy Carter"
+  },
+  {
+    "id": "state_of_the_union_address_january_23_1979_f79e496a60f0",
+    "presidentId": "jimmy_carter",
+    "title": "State of the Union Address (January 23, 1979)",
+    "date": "1979-01-23",
+    "presidentName": "Jimmy Carter"
+  },
+  {
+    "id": "crisis_of_confidence_speech_july_15_1979_d43f72bd3cac",
+    "presidentId": "jimmy_carter",
+    "title": "'Crisis of Confidence' Speech (July 15, 1979)",
+    "date": "1979-07-15",
+    "presidentName": "Jimmy Carter"
+  },
+  {
+    "id": "speech_on_afghanistan_january_4_1980_5cd90f865ab4",
+    "presidentId": "jimmy_carter",
+    "title": "Speech on Afghanistan (January 4, 1980)",
+    "date": "1980-01-04",
+    "presidentName": "Jimmy Carter"
+  },
+  {
+    "id": "state_of_the_union_address_january_23_1980_06dfa8a94418",
+    "presidentId": "jimmy_carter",
+    "title": "State of the Union Address (January 23, 1980)",
+    "date": "1980-01-23",
+    "presidentName": "Jimmy Carter"
+  },
+  {
+    "id": "statement_on_the_iran_rescue_mission_april_25_19_fc192634e76e",
+    "presidentId": "jimmy_carter",
+    "title": "Statement on the Iran Rescue Mission (April 25, 1980)",
+    "date": "1980-04-25",
+    "presidentName": "Jimmy Carter"
+  },
+  {
+    "id": "acceptance_speech_at_the_democratic_national_con_5638e009891a",
+    "presidentId": "jimmy_carter",
+    "title": "Acceptance Speech at the Democratic National Convention (August 14, 1980)",
+    "date": "1980-08-14",
+    "presidentName": "Jimmy Carter"
+  },
+  {
+    "id": "debate_with_ronald_reagan_october_28_1980_992f603c2061",
+    "presidentId": "jimmy_carter",
+    "title": "Debate with Ronald Reagan (October 28, 1980)",
+    "date": "1980-10-28",
+    "presidentName": "Jimmy Carter"
+  },
+  {
+    "id": "farewell_speech_january_14_1981_7d0f78b814d3",
+    "presidentId": "jimmy_carter",
+    "title": "Farewell Speech (January 14, 1981)",
+    "date": "1981-01-14",
+    "presidentName": "Jimmy Carter"
+  },
+  {
+    "id": "remarks_on_taking_the_oath_of_office_august_9_19_12d1ec99bfd5",
+    "presidentId": "gerald_ford",
+    "title": "Remarks on Taking the Oath of Office (August 9, 1974)",
+    "date": "1974-08-09",
+    "presidentName": "Gerald Ford"
+  },
+  {
+    "id": "remarks_on_pardoning_richard_nixon_september_8_1_93f1ff629da3",
+    "presidentId": "gerald_ford",
+    "title": "Remarks on Pardoning Richard Nixon (September 8, 1974)",
+    "date": "1974-09-08",
+    "presidentName": "Gerald Ford"
+  },
+  {
+    "id": "remarks_on_clemency_for_vietnam_era_draft_evader_858d6f9ce9c9",
+    "presidentId": "gerald_ford",
+    "title": "Remarks on Clemency for Vietnam Era Draft Evaders (September 16, 1974)",
+    "date": "1974-09-16",
+    "presidentName": "Gerald Ford"
+  },
+  {
+    "id": "address_to_the_general_assembly_of_the_united_na_56d84a16b3f2",
+    "presidentId": "gerald_ford",
+    "title": "Address to the General Assembly of the United Nations (September 18, 1974)",
+    "date": "1974-09-18",
+    "presidentName": "Gerald Ford"
+  },
+  {
+    "id": "whip_inflation_now_speech_october_8_1974_73cfcff384e1",
+    "presidentId": "gerald_ford",
+    "title": "'Whip Inflation Now' Speech (October 8, 1974)",
+    "date": "1974-10-08",
+    "presidentName": "Gerald Ford"
+  },
+  {
+    "id": "state_of_the_union_address_january_15_1975_34aabc236903",
+    "presidentId": "gerald_ford",
+    "title": "State of the Union Address (January 15, 1975)",
+    "date": "1975-01-15",
+    "presidentName": "Gerald Ford"
+  },
+  {
+    "id": "address_on_u_s_foreign_policy_april_10_1975_2ce35c9fe222",
+    "presidentId": "gerald_ford",
+    "title": "Address on U.S. Foreign Policy (April 10, 1975)",
+    "date": "1975-04-10",
+    "presidentName": "Gerald Ford"
+  },
+  {
+    "id": "remarks_at_tulane_university_april_23_1975_d4fe4b17e135",
+    "presidentId": "gerald_ford",
+    "title": "Remarks at Tulane University (April 23, 1975)",
+    "date": "1975-04-23",
+    "presidentName": "Gerald Ford"
+  },
+  {
+    "id": "address_on_energy_policy_may_27_1975_5bdc55aeea6f",
+    "presidentId": "gerald_ford",
+    "title": "Address on Energy Policy (May 27, 1975)",
+    "date": "1975-05-27",
+    "presidentName": "Gerald Ford"
+  },
+  {
+    "id": "remarks_in_helsinki_august_1_1975_418817c902ba",
+    "presidentId": "gerald_ford",
+    "title": "Remarks in Helsinki (August 1, 1975)",
+    "date": "1975-08-01",
+    "presidentName": "Gerald Ford"
+  },
+  {
+    "id": "address_at_the_university_of_hawaii_december_7_1_6f25a6fd2592",
+    "presidentId": "gerald_ford",
+    "title": "Address at the University of Hawaii (December 7, 1975)",
+    "date": "1975-12-07",
+    "presidentName": "Gerald Ford"
+  },
+  {
+    "id": "state_of_the_union_address_january_19_1976_d2ab926b745d",
+    "presidentId": "gerald_ford",
+    "title": "State of the Union Address (January 19, 1976)",
+    "date": "1976-01-19",
+    "presidentName": "Gerald Ford"
+  },
+  {
+    "id": "republican_national_convention_august_19_1976_dcc4cd917aa1",
+    "presidentId": "gerald_ford",
+    "title": "Republican National Convention (August 19, 1976)",
+    "date": "1976-08-19",
+    "presidentName": "Gerald Ford"
+  },
+  {
+    "id": "state_of_the_union_address_january_12_1977_36a20b997490",
+    "presidentId": "gerald_ford",
+    "title": "State of the Union Address (January 12, 1977)",
+    "date": "1977-01-12",
+    "presidentName": "Gerald Ford"
+  },
+  {
+    "id": "checkers_speech_september_23_1952_ea8ad189dfa1",
+    "presidentId": "richard_nixon",
+    "title": "'Checkers' Speech (September 23, 1952)",
+    "date": "1952-09-23",
+    "presidentName": "Richard Nixon"
+  },
+  {
+    "id": "first_inaugural_address_january_20_1969_8656ed939109",
+    "presidentId": "richard_nixon",
+    "title": "First Inaugural Address (January 20, 1969)",
+    "date": "1969-01-20",
+    "presidentName": "Richard Nixon"
+  },
+  {
+    "id": "address_to_the_nation_on_the_war_in_vietnam_nove_affa4a0b86a6",
+    "presidentId": "richard_nixon",
+    "title": "Address to the Nation on the War in Vietnam (November 3, 1969)",
+    "date": "1969-11-03",
+    "presidentName": "Richard Nixon"
+  },
+  {
+    "id": "state_of_the_union_address_january_22_1970_d80dd7acb23f",
+    "presidentId": "richard_nixon",
+    "title": "State of the Union Address (January 22, 1970)",
+    "date": "1970-01-22",
+    "presidentName": "Richard Nixon"
+  },
+  {
+    "id": "address_to_the_nation_on_the_situation_in_southe_f84ff0b42b6e",
+    "presidentId": "richard_nixon",
+    "title": "Address to the Nation on the Situation in Southeast Asia (April 30, 1970)",
+    "date": "1970-04-30",
+    "presidentName": "Richard Nixon"
+  },
+  {
+    "id": "state_of_the_union_address_january_22_1971_7bddde00e783",
+    "presidentId": "richard_nixon",
+    "title": "State of the Union Address (January 22, 1971)",
+    "date": "1971-01-22",
+    "presidentName": "Richard Nixon"
+  },
+  {
+    "id": "radio_address_about_second_annual_foreign_policy_72be5b73738b",
+    "presidentId": "richard_nixon",
+    "title": "Radio Address About Second Annual Foreign Policy Report to the Congress (February 25, 1971)",
+    "date": "1971-02-25",
+    "presidentName": "Richard Nixon"
+  },
+  {
+    "id": "address_to_the_nation_on_the_situation_in_southe_500414150eab",
+    "presidentId": "richard_nixon",
+    "title": "Address to the Nation on the Situation in Southeast Asia (April 7, 1971)",
+    "date": "1971-04-07",
+    "presidentName": "Richard Nixon"
+  },
+  {
+    "id": "remarks_announcing_an_agreement_on_strategic_arm_9b530ba5e281",
+    "presidentId": "richard_nixon",
+    "title": "Remarks Announcing an Agreement on Strategic Arms Limitation Talks (May 20, 1971)",
+    "date": "1971-05-20",
+    "presidentName": "Richard Nixon"
+  },
+  {
+    "id": "state_of_the_union_address_january_20_1972_2888fcaa11af",
+    "presidentId": "richard_nixon",
+    "title": "State of the Union Address (January 20, 1972)",
+    "date": "1972-01-20",
+    "presidentName": "Richard Nixon"
+  },
+  {
+    "id": "address_to_the_nation_on_plan_for_peace_in_vietn_ec57686204b2",
+    "presidentId": "richard_nixon",
+    "title": "Address to the Nation on Plan for Peace in Vietnam (January 25, 1972)",
+    "date": "1972-01-25",
+    "presidentName": "Richard Nixon"
+  },
+  {
+    "id": "address_to_the_nation_on_the_situation_in_southe_41433e46ebc9",
+    "presidentId": "richard_nixon",
+    "title": "Address to the Nation on the Situation in Southeast Asia (May 8, 1972)",
+    "date": "1972-05-08",
+    "presidentName": "Richard Nixon"
+  },
+  {
+    "id": "remarks_on_election_eve_november_6_1972_621a59d5c000",
+    "presidentId": "richard_nixon",
+    "title": "Remarks on Election Eve (November 6, 1972)",
+    "date": "1972-11-06",
+    "presidentName": "Richard Nixon"
+  },
+  {
+    "id": "remarks_on_being_reelected_to_the_presidency_nov_e7f43130cc71",
+    "presidentId": "richard_nixon",
+    "title": "Remarks on Being Reelected to the Presidency (November 7, 1972)",
+    "date": "1972-11-07",
+    "presidentName": "Richard Nixon"
+  },
+  {
+    "id": "second_inaugural_address_january_20_1973_43154b9c7422",
+    "presidentId": "richard_nixon",
+    "title": "Second Inaugural Address (January 20, 1973)",
+    "date": "1973-01-20",
+    "presidentName": "Richard Nixon"
+  },
+  {
+    "id": "address_to_the_nation_announcing_an_agreement_on_47a272984e0c",
+    "presidentId": "richard_nixon",
+    "title": "Address to the Nation Announcing an Agreement on Ending the War in Vietnam (January 23, 1973)",
+    "date": "1973-01-23",
+    "presidentName": "Richard Nixon"
+  },
+  {
+    "id": "address_to_the_nation_about_the_watergate_invest_461aaffe80b6",
+    "presidentId": "richard_nixon",
+    "title": "Address to the Nation About the Watergate Investigations (April 30, 1973)",
+    "date": "1973-04-30",
+    "presidentName": "Richard Nixon"
+  },
+  {
+    "id": "address_to_the_nation_about_the_watergate_invest_ca9eda394a60",
+    "presidentId": "richard_nixon",
+    "title": "Address to the Nation About the Watergate Investigations (August 15, 1973)",
+    "date": "1973-08-15",
+    "presidentName": "Richard Nixon"
+  },
+  {
+    "id": "state_of_the_union_address_january_30_1974_6e09ea007f32",
+    "presidentId": "richard_nixon",
+    "title": "State of the Union Address (January 30, 1974)",
+    "date": "1974-01-30",
+    "presidentName": "Richard Nixon"
+  },
+  {
+    "id": "the_president_s_news_conference_february_25_1974_9c509fbb58f3",
+    "presidentId": "richard_nixon",
+    "title": "The President's News Conference (February 25, 1974)",
+    "date": "1974-02-25",
+    "presidentName": "Richard Nixon"
+  },
+  {
+    "id": "address_to_the_nation_on_presidential_tape_recor_a877c8bf4c28",
+    "presidentId": "richard_nixon",
+    "title": "Address to the Nation on Presidential Tape Recordings (April 29, 1974)",
+    "date": "1974-04-29",
+    "presidentName": "Richard Nixon"
+  },
+  {
+    "id": "address_to_the_nation_announcing_decision_to_res_504fa6feb8ea",
+    "presidentId": "richard_nixon",
+    "title": "Address to the Nation Announcing Decision To Resign the Office of President (August 8, 1974)",
+    "date": "1974-08-08",
+    "presidentName": "Richard Nixon"
+  },
+  {
+    "id": "remarks_on_departure_from_the_white_house_august_324d93a1fb04",
+    "presidentId": "richard_nixon",
+    "title": "Remarks on Departure From the White House (August 9, 1974)",
+    "date": "1974-08-09",
+    "presidentName": "Richard Nixon"
+  },
+  {
+    "id": "remarks_at_gettysburg_on_civil_rights_may_30_196_8150f87eb6c7",
+    "presidentId": "lyndon_johnson",
+    "title": "Remarks at Gettysburg on Civil Rights (May 30, 1963)",
+    "date": "1963-05-30",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "address_to_joint_session_of_congress_november_27_398e2c994ecb",
+    "presidentId": "lyndon_johnson",
+    "title": "Address to Joint Session of Congress (November 27, 1963)",
+    "date": "1963-11-27",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "thanksgiving_message_november_28_1963_3371e84b2570",
+    "presidentId": "lyndon_johnson",
+    "title": "Thanksgiving Message (November 28, 1963)",
+    "date": "1963-11-28",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "address_to_the_u_n_general_assembly_december_17__f79fa529eee5",
+    "presidentId": "lyndon_johnson",
+    "title": "Address to the U.N. General Assembly (December 17, 1963)",
+    "date": "1963-12-17",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "state_of_the_union_january_8_1964_ea795af35c8c",
+    "presidentId": "lyndon_johnson",
+    "title": "State of the Union (January 8, 1964)",
+    "date": "1964-01-08",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "remarks_at_the_ninety_sixth_charter_day_observan_a5cb4323004c",
+    "presidentId": "lyndon_johnson",
+    "title": "Remarks at the Ninety Sixth Charter Day Observances (February 21, 1964)",
+    "date": "1964-02-21",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "speech_to_the_associated_press_luncheon_april_20_5a45ef354c2d",
+    "presidentId": "lyndon_johnson",
+    "title": "Speech to the Associated Press Luncheon (April 20, 1964)",
+    "date": "1964-04-20",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "remarks_at_the_university_of_michigan_may_22_196_71dd3634d2a4",
+    "presidentId": "lyndon_johnson",
+    "title": "Remarks at the University of Michigan (May 22, 1964)",
+    "date": "1964-05-22",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "remarks_upon_signing_the_civil_rights_bill_july__7af93127e9a6",
+    "presidentId": "lyndon_johnson",
+    "title": "Remarks upon Signing the Civil Rights Bill (July 2, 1964)",
+    "date": "1964-07-02",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "report_on_the_gulf_of_tonkin_incident_august_4_1_b63c112fa576",
+    "presidentId": "lyndon_johnson",
+    "title": "Report on the Gulf of Tonkin Incident (August 4, 1964)",
+    "date": "1964-08-04",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "acceptance_speech_at_the_democratic_national_con_281bbdfb3b0c",
+    "presidentId": "lyndon_johnson",
+    "title": "Acceptance Speech at the Democratic National Convention (August 27, 1964)",
+    "date": "1964-08-27",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "speech_at_the_jung_hotel_new_orleans_october_9_1_464c70ce5103",
+    "presidentId": "lyndon_johnson",
+    "title": "Speech at the Jung Hotel, New Orleans (October 9, 1964)",
+    "date": "1964-10-09",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "report_to_the_nation_on_events_in_china_and_the__d751e984562a",
+    "presidentId": "lyndon_johnson",
+    "title": "Report to the Nation on Events in China and the USSR (October 18, 1964)",
+    "date": "1964-10-18",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "state_of_the_union_january_4_1965_01c0dd270258",
+    "presidentId": "lyndon_johnson",
+    "title": "State of the Union (January 4, 1965)",
+    "date": "1965-01-04",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "inaugural_address_january_20_1965_0e04b787ec00",
+    "presidentId": "lyndon_johnson",
+    "title": "Inaugural Address (January 20, 1965)",
+    "date": "1965-01-20",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "speech_before_congress_on_voting_rights_march_15_121fb73f321d",
+    "presidentId": "lyndon_johnson",
+    "title": "Speech Before Congress on Voting Rights (March 15, 1965)",
+    "date": "1965-03-15",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "address_at_johns_hopkins_university_april_7_1965_6652caf63b31",
+    "presidentId": "lyndon_johnson",
+    "title": "Address at Johns Hopkins University (April 7, 1965)",
+    "date": "1965-04-07",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "statement_on_sending_troops_to_the_dominican_rep_3b0d30c586ce",
+    "presidentId": "lyndon_johnson",
+    "title": "Statement on Sending Troops to the Dominican Republic (April 28, 1965)",
+    "date": "1965-04-28",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "report_on_the_situation_in_the_dominican_republi_d13a581ee537",
+    "presidentId": "lyndon_johnson",
+    "title": "Report on the Situation in the Dominican Republic (May 2, 1965)",
+    "date": "1965-05-02",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "remarks_at_the_howard_university_commencement_ju_0cf99137b527",
+    "presidentId": "lyndon_johnson",
+    "title": "Remarks at the Howard University Commencement (June 4, 1965)",
+    "date": "1965-06-04",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "remarks_on_the_20th_anniversary_of_the_u_n_chart_615e22bc79cf",
+    "presidentId": "lyndon_johnson",
+    "title": "Remarks on the 20th Anniversary of the U.N. Charter (June 25, 1965)",
+    "date": "1965-06-25",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "remarks_on_the_signing_of_the_voting_rights_act__e64261bda1af",
+    "presidentId": "lyndon_johnson",
+    "title": "Remarks on the Signing of the Voting Rights Act (August 6, 1965)",
+    "date": "1965-08-06",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "state_of_the_union_january_12_1966_0ac1ce53a95d",
+    "presidentId": "lyndon_johnson",
+    "title": "State of the Union (January 12, 1966)",
+    "date": "1966-01-12",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "speech_on_u_s_foreign_policy_in_asia_july_12_196_659d7adc0118",
+    "presidentId": "lyndon_johnson",
+    "title": "Speech on U.S. Foreign Policy in Asia (July 12, 1966)",
+    "date": "1966-07-12",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "remarks_on_the_creation_of_the_department_of_tra_5f210b2c525f",
+    "presidentId": "lyndon_johnson",
+    "title": "Remarks on the Creation of the Department of Transportation (October 15, 1966)",
+    "date": "1966-10-15",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "state_of_the_union_address_january_10_1967_638b6251dc87",
+    "presidentId": "lyndon_johnson",
+    "title": "State of the Union Address (January 10, 1967)",
+    "date": "1967-01-10",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "address_after_ordering_federal_troops_to_detroit_e20265d3f43f",
+    "presidentId": "lyndon_johnson",
+    "title": "Address After Ordering Federal Troops to Detroit, Michigan (July 24, 1967)",
+    "date": "1967-07-24",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "speech_to_the_nation_on_civil_disorders_july_27__43889c2ae70d",
+    "presidentId": "lyndon_johnson",
+    "title": "Speech to the Nation on Civil Disorders (July 27, 1967)",
+    "date": "1967-07-27",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "speech_on_vietnam_september_29_1967_495bfc0d4988",
+    "presidentId": "lyndon_johnson",
+    "title": "Speech on Vietnam (September 29, 1967)",
+    "date": "1967-09-29",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "state_of_the_union_address_january_17_1968_3d2042b38eec",
+    "presidentId": "lyndon_johnson",
+    "title": "State of the Union Address (January 17, 1968)",
+    "date": "1968-01-17",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "remarks_on_decision_not_to_seek_re_election_marc_8b7e05eab172",
+    "presidentId": "lyndon_johnson",
+    "title": "Remarks on Decision not to Seek Re-Election (March 31, 1968)",
+    "date": "1968-03-31",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "remarks_on_signing_the_civil_rights_act_april_11_e7722b159349",
+    "presidentId": "lyndon_johnson",
+    "title": "Remarks on Signing the Civil Rights Act (April 11, 1968)",
+    "date": "1968-04-11",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "remarks_on_signing_the_nuclear_nonproliferation__c85fa1941dbd",
+    "presidentId": "lyndon_johnson",
+    "title": "Remarks on Signing the Nuclear Nonproliferation Treaty (July 1, 1968)",
+    "date": "1968-07-01",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "remarks_on_the_cessation_of_bombing_of_north_vie_86e249bdfcc1",
+    "presidentId": "lyndon_johnson",
+    "title": "Remarks on the Cessation of Bombing of North Vietnam (October 30, 1968)",
+    "date": "1968-10-30",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "state_of_the_union_address_january_14_1969_79532dc90b2f",
+    "presidentId": "lyndon_johnson",
+    "title": "State of the Union Address (January 14, 1969)",
+    "date": "1969-01-14",
+    "presidentName": "Lyndon Johnson"
+  },
+  {
+    "id": "acceptance_of_the_democratic_party_nomination_ju_28dff52cd5a5",
+    "presidentId": "john_kennedy",
+    "title": "Acceptance of the Democratic Party Nomination (July 15, 1960)",
+    "date": "1960-07-15",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "address_to_the_greater_houston_ministerial_assoc_5167b7bf9ec3",
+    "presidentId": "john_kennedy",
+    "title": "Address to the Greater Houston Ministerial Association (September 12, 1960)",
+    "date": "1960-09-12",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "debate_with_richard_nixon_in_chicago_september_2_5cf768924839",
+    "presidentId": "john_kennedy",
+    "title": "Debate with Richard Nixon in Chicago (September 26, 1960)",
+    "date": "1960-09-26",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "debate_with_richard_nixon_in_washington_d_c_octo_a83bb542fabe",
+    "presidentId": "john_kennedy",
+    "title": "Debate with Richard Nixon in Washington, D.C. (October 7, 1960)",
+    "date": "1960-10-07",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "debate_with_richard_nixon_in_new_york_and_los_an_5b84f616abaa",
+    "presidentId": "john_kennedy",
+    "title": "Debate with Richard Nixon in New York and Los Angeles (October 13, 1960)",
+    "date": "1960-10-13",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "debate_with_richard_nixon_in_new_york_october_21_7f452ced01ab",
+    "presidentId": "john_kennedy",
+    "title": "Debate with Richard Nixon in New York (October 21, 1960)",
+    "date": "1960-10-21",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "city_upon_a_hill_speech_january_9_1961_9c9e903e090a",
+    "presidentId": "john_kennedy",
+    "title": "'City Upon a Hill' Speech (January 9, 1961)",
+    "date": "1961-01-09",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "inaugural_address_january_20_1961_3cda1840daaa",
+    "presidentId": "john_kennedy",
+    "title": "Inaugural Address (January 20, 1961)",
+    "date": "1961-01-20",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "establishment_of_the_peace_corps_march_1_1961_a1b75959b5e1",
+    "presidentId": "john_kennedy",
+    "title": "Establishment of the Peace Corps (March 1, 1961)",
+    "date": "1961-03-01",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "address_to_the_diplomatic_corps_of_latin_america_5690178eb5ae",
+    "presidentId": "john_kennedy",
+    "title": "Address to the Diplomatic Corps of Latin America (March 13, 1961)",
+    "date": "1961-03-13",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "address_to_the_american_association_of_newspaper_28d8f7e5360c",
+    "presidentId": "john_kennedy",
+    "title": "Address to the American Association of Newspaper Editors (April 20, 1961)",
+    "date": "1961-04-20",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "special_message_to_the_congress_on_taxation_apri_76b489867955",
+    "presidentId": "john_kennedy",
+    "title": "Special Message to the Congress on Taxation (April 20, 1961)",
+    "date": "1961-04-20",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "president_and_the_press_speech_april_27_1961_8a4c8c43b566",
+    "presidentId": "john_kennedy",
+    "title": "'President and the Press' Speech (April 27, 1961)",
+    "date": "1961-04-27",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "the_goal_of_sending_a_man_to_the_moon_may_25_196_cf4f428a4c24",
+    "presidentId": "john_kennedy",
+    "title": "The Goal of Sending a Man to the Moon (May 25, 1961)",
+    "date": "1961-05-25",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "report_on_the_berlin_crisis_july_25_1961_4be7365aaabd",
+    "presidentId": "john_kennedy",
+    "title": "Report on the Berlin Crisis (July 25, 1961)",
+    "date": "1961-07-25",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "address_to_the_un_general_assembly_september_25__208f45fe27b3",
+    "presidentId": "john_kennedy",
+    "title": "Address to the UN General Assembly (September 25, 1961)",
+    "date": "1961-09-25",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "university_of_washington_s_100th_anniversary_nov_7e3b95b1015d",
+    "presidentId": "john_kennedy",
+    "title": "University of Washington's 100th Anniversary (November 16, 1961)",
+    "date": "1961-11-16",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "state_of_the_union_address_january_11_1962_0bf40b9b8e5d",
+    "presidentId": "john_kennedy",
+    "title": "State of the Union Address (January 11, 1962)",
+    "date": "1962-01-11",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "address_at_the_university_of_california_berkley__de7ad9d27c05",
+    "presidentId": "john_kennedy",
+    "title": "Address at the University of California, Berkley (March 23, 1962)",
+    "date": "1962-03-23",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "remarks_at_west_point_june_6_1962_213ac257d962",
+    "presidentId": "john_kennedy",
+    "title": "Remarks at West Point (June 6, 1962)",
+    "date": "1962-06-06",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "yale_university_commencement_june_11_1962_ab20a2d037c3",
+    "presidentId": "john_kennedy",
+    "title": "Yale University Commencement (June 11, 1962)",
+    "date": "1962-06-11",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "address_on_the_space_effort_september_12_1962_13f90230e587",
+    "presidentId": "john_kennedy",
+    "title": "Address on the Space Effort (September 12, 1962)",
+    "date": "1962-09-12",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "address_on_the_situation_at_the_university_of_mi_597bf053bd47",
+    "presidentId": "john_kennedy",
+    "title": "Address on the Situation at the University of Mississippi (September 30, 1962)",
+    "date": "1962-09-30",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "address_on_the_buildup_of_arms_in_cuba_october_2_13ac21cd6b7a",
+    "presidentId": "john_kennedy",
+    "title": "Address on the Buildup of Arms in Cuba (October 22, 1962)",
+    "date": "1962-10-22",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "state_of_the_union_address_january_14_1963_5c707a27213c",
+    "presidentId": "john_kennedy",
+    "title": "State of the Union Address (January 14, 1963)",
+    "date": "1963-01-14",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "90th_anniversary_of_vanderbilt_university_may_18_7934ae0b3cac",
+    "presidentId": "john_kennedy",
+    "title": "90th Anniversary of Vanderbilt University (May 18, 1963)",
+    "date": "1963-05-18",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "remarks_at_u_s_air_force_academy_june_5_1963_e668841b4625",
+    "presidentId": "john_kennedy",
+    "title": "Remarks at U.S. Air Force Academy (June 5, 1963)",
+    "date": "1963-06-05",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "american_university_commencement_june_10_1963_73b3daac56ea",
+    "presidentId": "john_kennedy",
+    "title": "American University Commencement (June 10, 1963)",
+    "date": "1963-06-10",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "address_on_civil_rights_june_11_1963_4a3e04de1334",
+    "presidentId": "john_kennedy",
+    "title": "Address on Civil Rights (June 11, 1963)",
+    "date": "1963-06-11",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "ich_bin_ein_berliner_speech_june_26_1963_51a427df1208",
+    "presidentId": "john_kennedy",
+    "title": "'Ich bin ein Berliner' Speech (June 26, 1963)",
+    "date": "1963-06-26",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "address_on_the_nuclear_test_ban_treaty_july_26_1_dd2fd7c08836",
+    "presidentId": "john_kennedy",
+    "title": "Address on the Nuclear Test Ban Treaty (July 26, 1963)",
+    "date": "1963-07-26",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "address_to_the_un_general_assembly_september_20__14db6e304b4d",
+    "presidentId": "john_kennedy",
+    "title": "Address to the UN General Assembly (September 20, 1963)",
+    "date": "1963-09-20",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "address_at_the_mormon_tabernacle_september_26_19_1639a1efb610",
+    "presidentId": "john_kennedy",
+    "title": "Address at the Mormon Tabernacle (September 26, 1963)",
+    "date": "1963-09-26",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "remarks_at_amherst_college_october_26_1963_1b319a19c6c8",
+    "presidentId": "john_kennedy",
+    "title": "Remarks at Amherst College (October 26, 1963)",
+    "date": "1963-10-26",
+    "presidentName": "John Kennedy"
+  },
+  {
+    "id": "first_inaugural_address_january_20_1953_c12e22ca98e6",
+    "presidentId": "dwight_eisenhower",
+    "title": "First Inaugural Address (January 20, 1953)",
+    "date": "1953-01-20",
+    "presidentName": "Dwight Eisenhower"
+  },
+  {
+    "id": "chance_for_peace_april_16_1953_7c643c939367",
+    "presidentId": "dwight_eisenhower",
+    "title": "Chance for Peace (April 16, 1953)",
+    "date": "1953-04-16",
+    "presidentName": "Dwight Eisenhower"
+  },
+  {
+    "id": "atoms_for_peace_december_8_1953_79390312a67c",
+    "presidentId": "dwight_eisenhower",
+    "title": "Atoms for Peace (December 8, 1953)",
+    "date": "1953-12-08",
+    "presidentName": "Dwight Eisenhower"
+  },
+  {
+    "id": "republican_national_convention_august_23_1956_5e06be0b33db",
+    "presidentId": "dwight_eisenhower",
+    "title": "Republican National Convention (August 23, 1956)",
+    "date": "1956-08-23",
+    "presidentName": "Dwight Eisenhower"
+  },
+  {
+    "id": "eisenhower_doctrine_january_5_1957_56ac70d753b4",
+    "presidentId": "dwight_eisenhower",
+    "title": "Eisenhower Doctrine (January 5, 1957)",
+    "date": "1957-01-05",
+    "presidentName": "Dwight Eisenhower"
+  },
+  {
+    "id": "farewell_address_january_17_1961_308306d93f9d",
+    "presidentId": "dwight_eisenhower",
+    "title": "Farewell Address (January 17, 1961)",
+    "date": "1961-01-17",
+    "presidentName": "Dwight Eisenhower"
+  },
+  {
+    "id": "first_speech_to_congress_april_16_1945_9d528a89f95d",
+    "presidentId": "harry_truman",
+    "title": "First Speech to Congress (April 16, 1945)",
+    "date": "1945-04-16",
+    "presidentName": "Harry Truman"
+  },
+  {
+    "id": "announcing_the_surrender_of_germany_may_8_1945_7798cfa78b05",
+    "presidentId": "harry_truman",
+    "title": "Announcing the Surrender of Germany (May 8, 1945)",
+    "date": "1945-05-08",
+    "presidentName": "Harry Truman"
+  },
+  {
+    "id": "statement_by_the_president_announcing_the_use_of_39766f03794f",
+    "presidentId": "harry_truman",
+    "title": "Statement by the President Announcing the Use of the A-Bomb at Hiroshima (August 6, 1945)",
+    "date": "1945-08-06",
+    "presidentName": "Harry Truman"
+  },
+  {
+    "id": "radio_report_to_the_american_people_on_the_potsd_9d6f5e1dcad5",
+    "presidentId": "harry_truman",
+    "title": "Radio Report to the American People on the Potsdam Conference (August 9, 1945)",
+    "date": "1945-08-09",
+    "presidentName": "Harry Truman"
+  },
+  {
+    "id": "announcing_the_surrender_of_japan_september_1_19_8df815f1bae5",
+    "presidentId": "harry_truman",
+    "title": "Announcing the Surrender of Japan (September 1, 1945)",
+    "date": "1945-09-01",
+    "presidentName": "Harry Truman"
+  },
+  {
+    "id": "navy_day_address_october_27_1945_57743ef6b7fd",
+    "presidentId": "harry_truman",
+    "title": "Navy Day Address (October 27, 1945)",
+    "date": "1945-10-27",
+    "presidentName": "Harry Truman"
+  },
+  {
+    "id": "truman_doctrine_march_12_1947_5e389f2dfd0c",
+    "presidentId": "harry_truman",
+    "title": "Truman Doctrine (March 12, 1947)",
+    "date": "1947-03-12",
+    "presidentName": "Harry Truman"
+  },
+  {
+    "id": "on_the_veto_of_the_taft_hartley_bill_june_20_194_7bf079f9b01d",
+    "presidentId": "harry_truman",
+    "title": "On the Veto of the Taft-Hartley Bill (June 20, 1947)",
+    "date": "1947-06-20",
+    "presidentName": "Harry Truman"
+  },
+  {
+    "id": "address_before_the_naacp_june_29_1947_4a36954495fe",
+    "presidentId": "harry_truman",
+    "title": "Address before the NAACP (June 29, 1947)",
+    "date": "1947-06-29",
+    "presidentName": "Harry Truman"
+  },
+  {
+    "id": "democratic_national_convention_july_15_1948_72f94e385ea0",
+    "presidentId": "harry_truman",
+    "title": "Democratic National Convention (July 15, 1948)",
+    "date": "1948-07-15",
+    "presidentName": "Harry Truman"
+  },
+  {
+    "id": "whistlestop_tour_in_chariton_iowa_september_18_1_fd31ff8a672a",
+    "presidentId": "harry_truman",
+    "title": "Whistlestop Tour in Chariton, Iowa (September 18, 1948)",
+    "date": "1948-09-18",
+    "presidentName": "Harry Truman"
+  },
+  {
+    "id": "whistlestop_tour_in_trenton_missouri_september_1_370ef5e8476b",
+    "presidentId": "harry_truman",
+    "title": "Whistlestop Tour in Trenton, Missouri (September 18, 1948)",
+    "date": "1948-09-18",
+    "presidentName": "Harry Truman"
+  },
+  {
+    "id": "victory_celebration_november_3_1948_d3fbf2dd82cf",
+    "presidentId": "harry_truman",
+    "title": "Victory Celebration (November 3, 1948)",
+    "date": "1948-11-03",
+    "presidentName": "Harry Truman"
+  },
+  {
+    "id": "inaugural_address_january_20_1949_719c03662e69",
+    "presidentId": "harry_truman",
+    "title": "Inaugural Address (January 20, 1949)",
+    "date": "1949-01-20",
+    "presidentName": "Harry Truman"
+  },
+  {
+    "id": "report_to_the_american_people_on_korea_april_11__0035a5c0218a",
+    "presidentId": "harry_truman",
+    "title": "Report to the American People on Korea (April 11, 1951)",
+    "date": "1951-04-11",
+    "presidentName": "Harry Truman"
+  },
+  {
+    "id": "columbia_scholastic_press_association_march_15_1_29db4f7af407",
+    "presidentId": "harry_truman",
+    "title": "Columbia Scholastic Press Association (March 15, 1952)",
+    "date": "1952-03-15",
+    "presidentName": "Harry Truman"
+  },
+  {
+    "id": "jefferson_jackson_day_dinner_march_29_1952_e350d753a2b4",
+    "presidentId": "harry_truman",
+    "title": "Jefferson-Jackson Day Dinner (March 29, 1952)",
+    "date": "1952-03-29",
+    "presidentName": "Harry Truman"
+  },
+  {
+    "id": "rear_platform_remarks_october_22_1952_eb883aa97df1",
+    "presidentId": "harry_truman",
+    "title": "Rear Platform Remarks (October 22, 1952)",
+    "date": "1952-10-22",
+    "presidentName": "Harry Truman"
+  },
+  {
+    "id": "farewell_address_january_15_1953_20376295961a",
+    "presidentId": "harry_truman",
+    "title": "Farewell Address (January 15, 1953)",
+    "date": "1953-01-15",
+    "presidentName": "Harry Truman"
+  },
+  {
+    "id": "first_inaugural_address_march_4_1933_447a013f5c63",
+    "presidentId": "franklin_roosevelt",
+    "title": "First Inaugural Address (March 4, 1933)",
+    "date": "1933-03-04",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_1_on_the_banking_crisis_march_12_1_df3af15e65bb",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 1: On the Banking Crisis (March 12, 1933)",
+    "date": "1933-03-12",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_2_on_progress_during_the_first_two_238d3382d891",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 2: On Progress During the First Two Months (May 7, 1933)",
+    "date": "1933-05-07",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_3_on_the_national_recovery_adminis_acee3fbd57f7",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 3: On the National Recovery Administration (July 24, 1933)",
+    "date": "1933-07-24",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_4_on_economic_progress_october_22__2898a43f1929",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 4: On Economic Progress (October 22, 1933)",
+    "date": "1933-10-22",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_5_on_addressing_the_critics_june_2_f337dc589674",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 5: On Addressing the Critics (June 28, 1934)",
+    "date": "1934-06-28",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_6_on_government_and_capitalism_sep_0afd1c5489f1",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 6: On Government and Capitalism (September 30, 1934)",
+    "date": "1934-09-30",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_7_on_the_works_relief_program_and__ef58711cd2a7",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 7: On the Works Relief Program and Social Security Act (April 28, 1935)",
+    "date": "1935-04-28",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "democratic_national_convention_june_27_1936_c5e1f3a2851a",
+    "presidentId": "franklin_roosevelt",
+    "title": "Democratic National Convention (June 27, 1936)",
+    "date": "1936-06-27",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_8_on_farmers_and_laborers_septembe_d4c62ad45cd6",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 8: On Farmers and Laborers (September 6, 1936)",
+    "date": "1936-09-06",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "speech_at_madison_square_garden_october_31_1936_e79a1c6c493d",
+    "presidentId": "franklin_roosevelt",
+    "title": "Speech at Madison Square Garden (October 31, 1936)",
+    "date": "1936-10-31",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "second_inaugural_address_january_20_1937_3a7f40a767d3",
+    "presidentId": "franklin_roosevelt",
+    "title": "Second Inaugural Address (January 20, 1937)",
+    "date": "1937-01-20",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_9_on_court_packing_march_9_1937_38c1f263dc6b",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 9: On 'Court-Packing' (March 9, 1937)",
+    "date": "1937-03-09",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "quarantine_speech_october_5_1937_4763aab151e5",
+    "presidentId": "franklin_roosevelt",
+    "title": "Quarantine Speech (October 5, 1937)",
+    "date": "1937-10-05",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_10_on_new_legislation_october_12_1_9c344e12d101",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 10: On New Legislation (October 12, 1937)",
+    "date": "1937-10-12",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_11_on_the_unemployment_census_nove_458fea459e78",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 11: On the Unemployment Census (November 14, 1937)",
+    "date": "1937-11-14",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_12_on_the_recession_april_14_1938_5c0641066b5a",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 12: On the Recession (April 14, 1938)",
+    "date": "1938-04-14",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_13_on_purging_the_democratic_party_4948f02fcd75",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 13: On Purging the Democratic Party (June 24, 1938)",
+    "date": "1938-06-24",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "dedication_of_a_memorial_to_the_northwest_territ_88b0ac47dc6e",
+    "presidentId": "franklin_roosevelt",
+    "title": "Dedication of a Memorial to the Northwest Territory (July 8, 1938)",
+    "date": "1938-07-08",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_14_on_the_european_war_september_3_fd30fb69d2f3",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 14: On the European War (September 3, 1939)",
+    "date": "1939-09-03",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_15_on_national_defense_may_26_1940_d183a23188d9",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 15: On National Defense (May 26, 1940)",
+    "date": "1940-05-26",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "stab_in_the_back_speech_june_10_1940_b60f9f0ca7f9",
+    "presidentId": "franklin_roosevelt",
+    "title": "'Stab in the Back' Speech (June 10, 1940)",
+    "date": "1940-06-10",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "democratic_national_convention_july_19_1940_489942b18fed",
+    "presidentId": "franklin_roosevelt",
+    "title": "Democratic National Convention (July 19, 1940)",
+    "date": "1940-07-19",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_16_on_the_arsenal_of_democracy_dec_6919d92c98b0",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 16: On the 'Arsenal of Democracy' (December 29, 1940)",
+    "date": "1940-12-29",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "state_of_the_union_four_freedoms_january_6_1941_b5c0272b7a38",
+    "presidentId": "franklin_roosevelt",
+    "title": "State of the Union (Four Freedoms) (January 6, 1941)",
+    "date": "1941-01-06",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "third_inaugural_address_january_20_1941_182439d115bd",
+    "presidentId": "franklin_roosevelt",
+    "title": "Third Inaugural Address (January 20, 1941)",
+    "date": "1941-01-20",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "on_lend_lease_march_15_1941_7079bf0fe143",
+    "presidentId": "franklin_roosevelt",
+    "title": "On Lend Lease (March 15, 1941)",
+    "date": "1941-03-15",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_17_on_an_unlimited_national_emerge_de3905e6e741",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 17: On An Unlimited National Emergency (May 27, 1941)",
+    "date": "1941-05-27",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_18_on_the_greer_incident_september_7af93bddf8ab",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 18: On The Greer Incident (September 11, 1941)",
+    "date": "1941-09-11",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "address_to_congress_requesting_a_declaration_of__5ff2e8537212",
+    "presidentId": "franklin_roosevelt",
+    "title": "Address to Congress Requesting a Declaration of War (December 8, 1941)",
+    "date": "1941-12-08",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_19_on_the_war_with_japan_december__b983ab0f9d27",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 19: On the War with Japan (December 9, 1941)",
+    "date": "1941-12-09",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "message_to_congress_requesting_war_declarations__c02dea72b2b5",
+    "presidentId": "franklin_roosevelt",
+    "title": "Message to Congress Requesting War Declarations with Germany and Italy (December 11, 1941)",
+    "date": "1941-12-11",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_20_on_the_progress_of_the_war_febr_3e1d331a1582",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 20: On the Progress of the War (February 23, 1942)",
+    "date": "1942-02-23",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_21_on_sacrifice_april_28_1942_6aa6ad87669d",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 21: On Sacrifice (April 28, 1942)",
+    "date": "1942-04-28",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_22_on_inflation_and_food_prices_se_836abd960d8e",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 22: On Inflation and Food Prices (September 7, 1942)",
+    "date": "1942-09-07",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_23_on_the_home_front_october_12_19_6b4b70ad0453",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 23: On the Home Front (October 12, 1942)",
+    "date": "1942-10-12",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "state_of_the_union_address_january_7_1943_f399da9b34b0",
+    "presidentId": "franklin_roosevelt",
+    "title": "State of the Union Address (January 7, 1943)",
+    "date": "1943-01-07",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_24_on_the_coal_crisis_may_2_1943_edb158a83b37",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 24: On the Coal Crisis (May 2, 1943)",
+    "date": "1943-05-02",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_25_on_the_fall_of_mussolini_july_2_a5e318ead8b2",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 25: On the Fall of Mussolini (July 28, 1943)",
+    "date": "1943-07-28",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_26_on_the_armistice_in_italy_septe_9e5c5af50cf7",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 26: On the Armistice in Italy (September 8, 1943)",
+    "date": "1943-09-08",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "the_tehran_declaration_december_1_1943_fdf52540609b",
+    "presidentId": "franklin_roosevelt",
+    "title": "The Tehran Declaration (December 1, 1943)",
+    "date": "1943-12-01",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_27_on_the_tehran_and_cairo_confere_1bcf0a11798c",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 27: On the Tehran and Cairo Conferences (December 24, 1943)",
+    "date": "1943-12-24",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_28_on_the_state_of_the_union_janua_efe0edb37bd2",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 28: On the State of the Union (January 11, 1944)",
+    "date": "1944-01-11",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_29_on_the_fall_of_rome_june_5_1944_a97d8285b349",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 29: On the Fall of Rome (June 5, 1944)",
+    "date": "1944-06-05",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fireside_chat_30_opening_fifth_war_loan_drive_ju_03e84df9500a",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fireside Chat 30: Opening Fifth War Loan Drive (June 12, 1944)",
+    "date": "1944-06-12",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "democratic_national_convention_july_20_1944_a74bc38125e7",
+    "presidentId": "franklin_roosevelt",
+    "title": "Democratic National Convention (July 20, 1944)",
+    "date": "1944-07-20",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "fourth_inaugural_address_january_20_1945_bfc9ef287fda",
+    "presidentId": "franklin_roosevelt",
+    "title": "Fourth Inaugural Address (January 20, 1945)",
+    "date": "1945-01-20",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "joint_statement_with_churchill_and_stalin_on_the_52e12044c85b",
+    "presidentId": "franklin_roosevelt",
+    "title": "Joint Statement with Churchill and Stalin on the Yalta Conference (February 11, 1945)",
+    "date": "1945-02-11",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "address_to_congress_on_yalta_march_1_1945_5d55d4d38826",
+    "presidentId": "franklin_roosevelt",
+    "title": "Address to Congress on Yalta (March 1, 1945)",
+    "date": "1945-03-01",
+    "presidentName": "Franklin Roosevelt"
+  },
+  {
+    "id": "inaugural_address_march_4_1929_9ad96b1edfe3",
+    "presidentId": "herbert_hoover",
+    "title": "Inaugural Address (March 4, 1929)",
+    "date": "1929-03-04",
+    "presidentName": "Herbert Hoover"
+  },
+  {
+    "id": "remarks_upon_proclaiming_the_treaty_for_the_renu_ca4f495f0fe7",
+    "presidentId": "herbert_hoover",
+    "title": "Remarks Upon Proclaiming the Treaty for the Renunciation of War (Kellog-Briand Pact) (July 24, 1929)",
+    "date": "1929-07-24",
+    "presidentName": "Herbert Hoover"
+  },
+  {
+    "id": "first_annual_message_december_6_1923_1503cec2aa68",
+    "presidentId": "calvin_coolidge",
+    "title": "First Annual Message (December 6, 1923)",
+    "date": "1923-12-06",
+    "presidentName": "Calvin Coolidge"
+  },
+  {
+    "id": "second_annual_message_december_3_1924_698f9a1245a9",
+    "presidentId": "calvin_coolidge",
+    "title": "Second Annual Message (December 3, 1924)",
+    "date": "1924-12-03",
+    "presidentName": "Calvin Coolidge"
+  },
+  {
+    "id": "inaugural_address_march_4_1925_6771e5bb4198",
+    "presidentId": "calvin_coolidge",
+    "title": "Inaugural Address (March 4, 1925)",
+    "date": "1925-03-04",
+    "presidentName": "Calvin Coolidge"
+  },
+  {
+    "id": "third_annual_message_december_8_1925_d5d18bb494fd",
+    "presidentId": "calvin_coolidge",
+    "title": "Third Annual Message (December 8, 1925)",
+    "date": "1925-12-08",
+    "presidentName": "Calvin Coolidge"
+  },
+  {
+    "id": "fourth_annual_message_december_7_1926_27c0d90639c4",
+    "presidentId": "calvin_coolidge",
+    "title": "Fourth Annual Message (December 7, 1926)",
+    "date": "1926-12-07",
+    "presidentName": "Calvin Coolidge"
+  },
+  {
+    "id": "address_at_the_opening_of_work_on_mount_rushmore_58963d818e58",
+    "presidentId": "calvin_coolidge",
+    "title": "Address at the Opening of Work on Mount Rushmore in Black Hills, SD (August 10, 1927)",
+    "date": "1927-08-10",
+    "presidentName": "Calvin Coolidge"
+  },
+  {
+    "id": "fifth_annual_message_december_6_1927_c0aaccacfb83",
+    "presidentId": "calvin_coolidge",
+    "title": "Fifth Annual Message (December 6, 1927)",
+    "date": "1927-12-06",
+    "presidentName": "Calvin Coolidge"
+  },
+  {
+    "id": "sixth_annual_message_december_4_1928_26fd3a1311fa",
+    "presidentId": "calvin_coolidge",
+    "title": "Sixth Annual Message (December 4, 1928)",
+    "date": "1928-12-04",
+    "presidentName": "Calvin Coolidge"
+  },
+  {
+    "id": "inaugural_address_march_4_1921_3613bd6212f5",
+    "presidentId": "warren_g_harding",
+    "title": "Inaugural Address (March 4, 1921)",
+    "date": "1921-03-04",
+    "presidentName": "Warren G. Harding"
+  },
+  {
+    "id": "first_annual_message_december_6_1921_df577d54d16e",
+    "presidentId": "warren_g_harding",
+    "title": "First Annual Message (December 6, 1921)",
+    "date": "1921-12-06",
+    "presidentName": "Warren G. Harding"
+  },
+  {
+    "id": "second_annual_message_december_8_1922_856a05e3d740",
+    "presidentId": "warren_g_harding",
+    "title": "Second Annual Message (December 8, 1922)",
+    "date": "1922-12-08",
+    "presidentName": "Warren G. Harding"
+  },
+  {
+    "id": "first_inaugural_address_march_4_1913_16152eb0a8fa",
+    "presidentId": "woodrow_wilson",
+    "title": "First Inaugural Address (March 4, 1913)",
+    "date": "1913-03-04",
+    "presidentName": "Woodrow Wilson"
+  },
+  {
+    "id": "address_at_gettysburg_july_4_1913_7b1cdb2528e9",
+    "presidentId": "woodrow_wilson",
+    "title": "Address at Gettysburg (July 4, 1913)",
+    "date": "1913-07-04",
+    "presidentName": "Woodrow Wilson"
+  },
+  {
+    "id": "address_at_congress_hall_philadelphia_october_25_f9c1717cc6bc",
+    "presidentId": "woodrow_wilson",
+    "title": "Address at Congress Hall, Philadelphia (October 25, 1913)",
+    "date": "1913-10-25",
+    "presidentName": "Woodrow Wilson"
+  },
+  {
+    "id": "first_annual_message_december_2_1913_347936d11a07",
+    "presidentId": "woodrow_wilson",
+    "title": "First Annual Message (December 2, 1913)",
+    "date": "1913-12-02",
+    "presidentName": "Woodrow Wilson"
+  },
+  {
+    "id": "address_to_a_joint_session_of_congress_on_trusts_dd209d134740",
+    "presidentId": "woodrow_wilson",
+    "title": "Address to a Joint Session of Congress on Trusts and Monopolies (January 20, 1914)",
+    "date": "1914-01-20",
+    "presidentName": "Woodrow Wilson"
+  },
+  {
+    "id": "message_on_neutrality_august_20_1914_b5039ebfe5de",
+    "presidentId": "woodrow_wilson",
+    "title": "Message on Neutrality (August 20, 1914)",
+    "date": "1914-08-20",
+    "presidentName": "Woodrow Wilson"
+  },
+  {
+    "id": "the_opinion_of_the_world_speech_october_20_1914_12fded4269a1",
+    "presidentId": "woodrow_wilson",
+    "title": "'The Opinion of the World' Speech (October 20, 1914)",
+    "date": "1914-10-20",
+    "presidentName": "Woodrow Wilson"
+  },
+  {
+    "id": "second_annual_message_december_8_1914_2d75b06f9ea1",
+    "presidentId": "woodrow_wilson",
+    "title": "Second Annual Message (December 8, 1914)",
+    "date": "1914-12-08",
+    "presidentName": "Woodrow Wilson"
+  },
+  {
+    "id": "third_annual_message_december_7_1915_de8e24425ba1",
+    "presidentId": "woodrow_wilson",
+    "title": "Third Annual Message (December 7, 1915)",
+    "date": "1915-12-07",
+    "presidentName": "Woodrow Wilson"
+  },
+  {
+    "id": "speech_of_acceptance_september_2_1916_5ab80e64e528",
+    "presidentId": "woodrow_wilson",
+    "title": "Speech of Acceptance (September 2, 1916)",
+    "date": "1916-09-02",
+    "presidentName": "Woodrow Wilson"
+  },
+  {
+    "id": "fourth_annual_message_december_5_1916_8c24904f0ec4",
+    "presidentId": "woodrow_wilson",
+    "title": "Fourth Annual Message (December 5, 1916)",
+    "date": "1916-12-05",
+    "presidentName": "Woodrow Wilson"
+  },
+  {
+    "id": "a_world_league_for_peace_speech_january_22_1917_95c371e9e9eb",
+    "presidentId": "woodrow_wilson",
+    "title": "'A World League for Peace' Speech (January 22, 1917)",
+    "date": "1917-01-22",
+    "presidentName": "Woodrow Wilson"
+  },
+  {
+    "id": "second_inaugural_address_march_5_1917_ba1de16515d9",
+    "presidentId": "woodrow_wilson",
+    "title": "Second Inaugural Address (March 5, 1917)",
+    "date": "1917-03-05",
+    "presidentName": "Woodrow Wilson"
+  },
+  {
+    "id": "address_to_congress_requesting_a_declaration_of__66fb9e6147f2",
+    "presidentId": "woodrow_wilson",
+    "title": "Address to Congress Requesting a Declaration of War Against Germany (April 2, 1917)",
+    "date": "1917-04-02",
+    "presidentName": "Woodrow Wilson"
+  },
+  {
+    "id": "proclamation_1364_april_6_1917_c2d27055b322",
+    "presidentId": "woodrow_wilson",
+    "title": "Proclamation 1364 (April 6, 1917)",
+    "date": "1917-04-06",
+    "presidentName": "Woodrow Wilson"
+  },
+  {
+    "id": "fifth_annual_message_december_4_1917_674b4a90f115",
+    "presidentId": "woodrow_wilson",
+    "title": "Fifth Annual Message (December 4, 1917)",
+    "date": "1917-12-04",
+    "presidentName": "Woodrow Wilson"
+  },
+  {
+    "id": "sixth_annual_message_december_2_1918_51e5d371c1b7",
+    "presidentId": "woodrow_wilson",
+    "title": "Sixth Annual Message (December 2, 1918)",
+    "date": "1918-12-02",
+    "presidentName": "Woodrow Wilson"
+  },
+  {
+    "id": "seventh_annual_message_december_2_1919_910dafc00493",
+    "presidentId": "woodrow_wilson",
+    "title": "Seventh Annual Message (December 2, 1919)",
+    "date": "1919-12-02",
+    "presidentName": "Woodrow Wilson"
+  },
+  {
+    "id": "eighth_annual_message_december_7_1920_912428f67024",
+    "presidentId": "woodrow_wilson",
+    "title": "Eighth Annual Message (December 7, 1920)",
+    "date": "1920-12-07",
+    "presidentName": "Woodrow Wilson"
+  },
+  {
+    "id": "inaugural_address_march_4_1909_2fe9f91fe498",
+    "presidentId": "william_taft",
+    "title": "Inaugural Address (March 4, 1909)",
+    "date": "1909-03-04",
+    "presidentName": "William Taft"
+  },
+  {
+    "id": "address_on_the_tariff_law_of_1909_november_17_19_5f78563585e9",
+    "presidentId": "william_taft",
+    "title": "Address on the Tariff Law of 1909 (November 17, 1909)",
+    "date": "1909-11-17",
+    "presidentName": "William Taft"
+  },
+  {
+    "id": "first_annual_message_december_7_1909_ba7fe41e6201",
+    "presidentId": "william_taft",
+    "title": "First Annual Message (December 7, 1909)",
+    "date": "1909-12-07",
+    "presidentName": "William Taft"
+  },
+  {
+    "id": "second_annual_message_december_6_1910_45fd067b792b",
+    "presidentId": "william_taft",
+    "title": "Second Annual Message (December 6, 1910)",
+    "date": "1910-12-06",
+    "presidentName": "William Taft"
+  },
+  {
+    "id": "special_message_on_canadian_reciprocity_january__93e8dcba6220",
+    "presidentId": "william_taft",
+    "title": "Special Message on Canadian Reciprocity (January 26, 1911)",
+    "date": "1911-01-26",
+    "presidentName": "William Taft"
+  },
+  {
+    "id": "third_annual_message_december_5_1911_ae18edce4306",
+    "presidentId": "william_taft",
+    "title": "Third Annual Message (December 5, 1911)",
+    "date": "1911-12-05",
+    "presidentName": "William Taft"
+  },
+  {
+    "id": "fourth_annual_message_december_3_1912_eb5a8b93195d",
+    "presidentId": "william_taft",
+    "title": "Fourth Annual Message (December 3, 1912)",
+    "date": "1912-12-03",
+    "presidentName": "William Taft"
+  },
+  {
+    "id": "first_annual_message_december_3_1901_864736ec2d93",
+    "presidentId": "theodore_roosevelt",
+    "title": "First Annual Message (December 3, 1901)",
+    "date": "1901-12-03",
+    "presidentName": "Theodore Roosevelt"
+  },
+  {
+    "id": "second_annual_message_december_2_1902_52d641c61d9b",
+    "presidentId": "theodore_roosevelt",
+    "title": "Second Annual Message (December 2, 1902)",
+    "date": "1902-12-02",
+    "presidentName": "Theodore Roosevelt"
+  },
+  {
+    "id": "third_annual_message_december_7_1903_725422ce5910",
+    "presidentId": "theodore_roosevelt",
+    "title": "Third Annual Message (December 7, 1903)",
+    "date": "1903-12-07",
+    "presidentName": "Theodore Roosevelt"
+  },
+  {
+    "id": "fourth_annual_message_december_6_1904_a2cb2d9cba5d",
+    "presidentId": "theodore_roosevelt",
+    "title": "Fourth Annual Message (December 6, 1904)",
+    "date": "1904-12-06",
+    "presidentName": "Theodore Roosevelt"
+  },
+  {
+    "id": "inaugural_address_march_4_1905_5fdc79ae3b84",
+    "presidentId": "theodore_roosevelt",
+    "title": "Inaugural Address (March 4, 1905)",
+    "date": "1905-03-04",
+    "presidentName": "Theodore Roosevelt"
+  },
+  {
+    "id": "fifth_annual_message_december_5_1905_5066b02ff9ee",
+    "presidentId": "theodore_roosevelt",
+    "title": "Fifth Annual Message (December 5, 1905)",
+    "date": "1905-12-05",
+    "presidentName": "Theodore Roosevelt"
+  },
+  {
+    "id": "sixth_annual_message_december_3_1906_cc58ae3cefae",
+    "presidentId": "theodore_roosevelt",
+    "title": "Sixth Annual Message (December 3, 1906)",
+    "date": "1906-12-03",
+    "presidentName": "Theodore Roosevelt"
+  },
+  {
+    "id": "seventh_annual_message_december_3_1907_5d9a621026e8",
+    "presidentId": "theodore_roosevelt",
+    "title": "Seventh Annual Message (December 3, 1907)",
+    "date": "1907-12-03",
+    "presidentName": "Theodore Roosevelt"
+  },
+  {
+    "id": "eighth_annual_message_december_9_1908_eeff39ec9567",
+    "presidentId": "theodore_roosevelt",
+    "title": "Eighth Annual Message (December 9, 1908)",
+    "date": "1908-12-09",
+    "presidentName": "Theodore Roosevelt"
+  },
+  {
+    "id": "first_inaugural_address_march_4_1897_e4ac87fa1a62",
+    "presidentId": "william_mckinley",
+    "title": "First Inaugural Address (March 4, 1897)",
+    "date": "1897-03-04",
+    "presidentName": "William McKinley"
+  },
+  {
+    "id": "first_annual_message_december_6_1897_588babe132c6",
+    "presidentId": "william_mckinley",
+    "title": "First Annual Message (December 6, 1897)",
+    "date": "1897-12-06",
+    "presidentName": "William McKinley"
+  },
+  {
+    "id": "second_annual_message_december_5_1898_b7eef5e24a37",
+    "presidentId": "william_mckinley",
+    "title": "Second Annual Message (December 5, 1898)",
+    "date": "1898-12-05",
+    "presidentName": "William McKinley"
+  },
+  {
+    "id": "third_annual_message_december_5_1899_acb28712ad10",
+    "presidentId": "william_mckinley",
+    "title": "Third Annual Message (December 5, 1899)",
+    "date": "1899-12-05",
+    "presidentName": "William McKinley"
+  },
+  {
+    "id": "fourth_annual_message_december_3_1900_7fc44b5f5d65",
+    "presidentId": "william_mckinley",
+    "title": "Fourth Annual Message (December 3, 1900)",
+    "date": "1900-12-03",
+    "presidentName": "William McKinley"
+  },
+  {
+    "id": "second_inaugural_address_march_4_1901_211cb8ccc97c",
+    "presidentId": "william_mckinley",
+    "title": "Second Inaugural Address (March 4, 1901)",
+    "date": "1901-03-04",
+    "presidentName": "William McKinley"
+  },
+  {
+    "id": "first_inaugural_address_march_4_1885_c3674838db9e",
+    "presidentId": "grover_cleveland",
+    "title": "First Inaugural Address (March 4, 1885)",
+    "date": "1885-03-04",
+    "presidentName": "Grover Cleveland"
+  },
+  {
+    "id": "first_annual_message_december_8_1885_411ac4cd0ad1",
+    "presidentId": "grover_cleveland",
+    "title": "First Annual Message (December 8, 1885)",
+    "date": "1885-12-08",
+    "presidentName": "Grover Cleveland"
+  },
+  {
+    "id": "second_annual_message_december_6_1886_1024f3dd9530",
+    "presidentId": "grover_cleveland",
+    "title": "Second Annual Message (December 6, 1886)",
+    "date": "1886-12-06",
+    "presidentName": "Grover Cleveland"
+  },
+  {
+    "id": "third_annual_message_december_6_1887_3eacda69676a",
+    "presidentId": "grover_cleveland",
+    "title": "Third Annual Message (December 6, 1887)",
+    "date": "1887-12-06",
+    "presidentName": "Grover Cleveland"
+  },
+  {
+    "id": "fourth_annual_message_december_3_1888_94be86fa02cd",
+    "presidentId": "grover_cleveland",
+    "title": "Fourth Annual Message (December 3, 1888)",
+    "date": "1888-12-03",
+    "presidentName": "Grover Cleveland"
+  },
+  {
+    "id": "second_inaugural_address_march_4_1893_ab824218286b",
+    "presidentId": "grover_cleveland",
+    "title": "Second Inaugural Address (March 4, 1893)",
+    "date": "1893-03-04",
+    "presidentName": "Grover Cleveland"
+  },
+  {
+    "id": "special_session_message_august_8_1893_682785d1a863",
+    "presidentId": "grover_cleveland",
+    "title": "Special Session Message (August 8, 1893)",
+    "date": "1893-08-08",
+    "presidentName": "Grover Cleveland"
+  },
+  {
+    "id": "first_annual_message_second_term_december_4_1893_03ebdb72a798",
+    "presidentId": "grover_cleveland",
+    "title": "First Annual Message (Second Term) (December 4, 1893)",
+    "date": "1893-12-04",
+    "presidentName": "Grover Cleveland"
+  },
+  {
+    "id": "second_annual_message_second_term_december_3_189_c8d004cbd073",
+    "presidentId": "grover_cleveland",
+    "title": "Second Annual Message (Second Term) (December 3, 1894)",
+    "date": "1894-12-03",
+    "presidentName": "Grover Cleveland"
+  },
+  {
+    "id": "third_annual_message_second_term_december_2_1895_8c1c5226c167",
+    "presidentId": "grover_cleveland",
+    "title": "Third Annual Message (Second Term) (December 2, 1895)",
+    "date": "1895-12-02",
+    "presidentName": "Grover Cleveland"
+  },
+  {
+    "id": "fourth_annual_message_second_term_december_7_189_a69f78e83430",
+    "presidentId": "grover_cleveland",
+    "title": "Fourth Annual Message (Second Term) (December 7, 1896)",
+    "date": "1896-12-07",
+    "presidentName": "Grover Cleveland"
+  },
+  {
+    "id": "inaugural_address_march_4_1889_9e8c1abe67fb",
+    "presidentId": "benjamin_harrison",
+    "title": "Inaugural Address (March 4, 1889)",
+    "date": "1889-03-04",
+    "presidentName": "Benjamin Harrison"
+  },
+  {
+    "id": "first_annual_message_december_3_1889_4325c334a71e",
+    "presidentId": "benjamin_harrison",
+    "title": "First Annual Message (December 3, 1889)",
+    "date": "1889-12-03",
+    "presidentName": "Benjamin Harrison"
+  },
+  {
+    "id": "second_annual_message_december_1_1890_9fbb3a85fd29",
+    "presidentId": "benjamin_harrison",
+    "title": "Second Annual Message (December 1, 1890)",
+    "date": "1890-12-01",
+    "presidentName": "Benjamin Harrison"
+  },
+  {
+    "id": "third_annual_message_december_9_1891_6309895ae069",
+    "presidentId": "benjamin_harrison",
+    "title": "Third Annual Message (December 9, 1891)",
+    "date": "1891-12-09",
+    "presidentName": "Benjamin Harrison"
+  },
+  {
+    "id": "fourth_annual_message_december_6_1892_abe99334ffe8",
+    "presidentId": "benjamin_harrison",
+    "title": "Fourth Annual Message (December 6, 1892)",
+    "date": "1892-12-06",
+    "presidentName": "Benjamin Harrison"
+  },
+  {
+    "id": "first_annual_message_december_6_1881_f3b1c6972db7",
+    "presidentId": "chester_a_arthur",
+    "title": "First Annual Message (December 6, 1881)",
+    "date": "1881-12-06",
+    "presidentName": "Chester A. Arthur"
+  },
+  {
+    "id": "second_annual_message_december_4_1882_928dfc9ee254",
+    "presidentId": "chester_a_arthur",
+    "title": "Second Annual Message (December 4, 1882)",
+    "date": "1882-12-04",
+    "presidentName": "Chester A. Arthur"
+  },
+  {
+    "id": "third_annual_message_december_4_1883_4bfab55929d9",
+    "presidentId": "chester_a_arthur",
+    "title": "Third Annual Message (December 4, 1883)",
+    "date": "1883-12-04",
+    "presidentName": "Chester A. Arthur"
+  },
+  {
+    "id": "fourth_annual_message_december_1_1884_3fcf01fe3c54",
+    "presidentId": "chester_a_arthur",
+    "title": "Fourth Annual Message (December 1, 1884)",
+    "date": "1884-12-01",
+    "presidentName": "Chester A. Arthur"
+  },
+  {
+    "id": "inaugural_address_march_4_1881_71be9dfebb64",
+    "presidentId": "james_a_garfield",
+    "title": "Inaugural Address (March 4, 1881)",
+    "date": "1881-03-04",
+    "presidentName": "James A. Garfield"
+  },
+  {
+    "id": "inaugural_address_march_5_1877_a948a7c9b882",
+    "presidentId": "rutherford_b_hayes",
+    "title": "Inaugural Address (March 5, 1877)",
+    "date": "1877-03-05",
+    "presidentName": "Rutherford B. Hayes"
+  },
+  {
+    "id": "first_annual_message_december_3_1877_4a325fb3be55",
+    "presidentId": "rutherford_b_hayes",
+    "title": "First Annual Message (December 3, 1877)",
+    "date": "1877-12-03",
+    "presidentName": "Rutherford B. Hayes"
+  },
+  {
+    "id": "second_annual_message_december_2_1878_5750261bfda1",
+    "presidentId": "rutherford_b_hayes",
+    "title": "Second Annual Message (December 2, 1878)",
+    "date": "1878-12-02",
+    "presidentName": "Rutherford B. Hayes"
+  },
+  {
+    "id": "third_annual_message_december_1_1879_aac62451f723",
+    "presidentId": "rutherford_b_hayes",
+    "title": "Third Annual Message (December 1, 1879)",
+    "date": "1879-12-01",
+    "presidentName": "Rutherford B. Hayes"
+  },
+  {
+    "id": "fourth_annual_message_december_6_1880_22cd6ad816d6",
+    "presidentId": "rutherford_b_hayes",
+    "title": "Fourth Annual Message (December 6, 1880)",
+    "date": "1880-12-06",
+    "presidentName": "Rutherford B. Hayes"
+  },
+  {
+    "id": "first_inaugural_address_march_4_1869_b21e57764e36",
+    "presidentId": "ulysses_s_grant",
+    "title": "First Inaugural Address (March 4, 1869)",
+    "date": "1869-03-04",
+    "presidentName": "Ulysses S. Grant"
+  },
+  {
+    "id": "first_annual_message_december_6_1869_a95e777f743d",
+    "presidentId": "ulysses_s_grant",
+    "title": "First Annual Message (December 6, 1869)",
+    "date": "1869-12-06",
+    "presidentName": "Ulysses S. Grant"
+  },
+  {
+    "id": "second_annual_message_december_5_1870_4996dbaf9cd7",
+    "presidentId": "ulysses_s_grant",
+    "title": "Second Annual Message (December 5, 1870)",
+    "date": "1870-12-05",
+    "presidentName": "Ulysses S. Grant"
+  },
+  {
+    "id": "third_annual_message_december_4_1871_084b3067884a",
+    "presidentId": "ulysses_s_grant",
+    "title": "Third Annual Message (December 4, 1871)",
+    "date": "1871-12-04",
+    "presidentName": "Ulysses S. Grant"
+  },
+  {
+    "id": "fourth_annual_message_december_2_1872_634baceb3705",
+    "presidentId": "ulysses_s_grant",
+    "title": "Fourth Annual Message (December 2, 1872)",
+    "date": "1872-12-02",
+    "presidentName": "Ulysses S. Grant"
+  },
+  {
+    "id": "second_inaugural_address_march_4_1873_8d3f30f23016",
+    "presidentId": "ulysses_s_grant",
+    "title": "Second Inaugural Address (March 4, 1873)",
+    "date": "1873-03-04",
+    "presidentName": "Ulysses S. Grant"
+  },
+  {
+    "id": "fifth_annual_message_december_1_1873_9159b4c9a26c",
+    "presidentId": "ulysses_s_grant",
+    "title": "Fifth Annual Message (December 1, 1873)",
+    "date": "1873-12-01",
+    "presidentName": "Ulysses S. Grant"
+  },
+  {
+    "id": "sixth_annual_message_december_7_1874_458ef4729eb3",
+    "presidentId": "ulysses_s_grant",
+    "title": "Sixth Annual Message (December 7, 1874)",
+    "date": "1874-12-07",
+    "presidentName": "Ulysses S. Grant"
+  },
+  {
+    "id": "seventh_annual_message_december_7_1875_f29d450161d1",
+    "presidentId": "ulysses_s_grant",
+    "title": "Seventh Annual Message (December 7, 1875)",
+    "date": "1875-12-07",
+    "presidentName": "Ulysses S. Grant"
+  },
+  {
+    "id": "eighth_annual_message_december_5_1876_7fccb9e416ca",
+    "presidentId": "ulysses_s_grant",
+    "title": "Eighth Annual Message (December 5, 1876)",
+    "date": "1876-12-05",
+    "presidentName": "Ulysses S. Grant"
+  },
+  {
+    "id": "first_annual_message_december_4_1865_5c88d2c826cc",
+    "presidentId": "andrew_johnson",
+    "title": "First Annual Message (December 4, 1865)",
+    "date": "1865-12-04",
+    "presidentName": "Andrew Johnson"
+  },
+  {
+    "id": "eulogy_on_henry_clay_july_6_1852_efe2a56ef9a0",
+    "presidentId": "abraham_lincoln",
+    "title": "Eulogy on Henry Clay (July 6, 1852)",
+    "date": "1852-07-06",
+    "presidentName": "Abraham Lincoln"
+  },
+  {
+    "id": "at_peoria_illinois_october_16_1854_81484fdcda27",
+    "presidentId": "abraham_lincoln",
+    "title": "At Peoria, Illinois (October 16, 1854)",
+    "date": "1854-10-16",
+    "presidentName": "Abraham Lincoln"
+  },
+  {
+    "id": "a_house_divided_speech_june_16_1858_ef1194fcc43f",
+    "presidentId": "abraham_lincoln",
+    "title": "'A House Divided' Speech (June 16, 1858)",
+    "date": "1858-06-16",
+    "presidentName": "Abraham Lincoln"
+  },
+  {
+    "id": "cooper_union_address_february_27_1860_c8ec940e7376",
+    "presidentId": "abraham_lincoln",
+    "title": "Cooper Union Address (February 27, 1860)",
+    "date": "1860-02-27",
+    "presidentName": "Abraham Lincoln"
+  },
+  {
+    "id": "farewell_address_february_11_1861_e973f556ed07",
+    "presidentId": "abraham_lincoln",
+    "title": "Farewell Address (February 11, 1861)",
+    "date": "1861-02-11",
+    "presidentName": "Abraham Lincoln"
+  },
+  {
+    "id": "first_inaugural_address_march_4_1861_1a2e499ffb2c",
+    "presidentId": "abraham_lincoln",
+    "title": "First Inaugural Address (March 4, 1861)",
+    "date": "1861-03-04",
+    "presidentName": "Abraham Lincoln"
+  },
+  {
+    "id": "july_4th_message_to_congress_july_4_1861_d05d5071c2cb",
+    "presidentId": "abraham_lincoln",
+    "title": "July 4th Message to Congress (July 4, 1861)",
+    "date": "1861-07-04",
+    "presidentName": "Abraham Lincoln"
+  },
+  {
+    "id": "first_annual_message_december_3_1861_80116e194201",
+    "presidentId": "abraham_lincoln",
+    "title": "First Annual Message (December 3, 1861)",
+    "date": "1861-12-03",
+    "presidentName": "Abraham Lincoln"
+  },
+  {
+    "id": "second_annual_message_december_1_1862_aebdb14cda48",
+    "presidentId": "abraham_lincoln",
+    "title": "Second Annual Message (December 1, 1862)",
+    "date": "1862-12-01",
+    "presidentName": "Abraham Lincoln"
+  },
+  {
+    "id": "emancipation_proclamation_january_1_1863_22d37d39a36e",
+    "presidentId": "abraham_lincoln",
+    "title": "Emancipation Proclamation (January 1, 1863)",
+    "date": "1863-01-01",
+    "presidentName": "Abraham Lincoln"
+  },
+  {
+    "id": "public_letter_to_james_conkling_august_26_1863_d5cfca7210fb",
+    "presidentId": "abraham_lincoln",
+    "title": "Public Letter to James Conkling (August 26, 1863)",
+    "date": "1863-08-26",
+    "presidentName": "Abraham Lincoln"
+  },
+  {
+    "id": "gettysburg_address_november_19_1863_7708ee33f4ef",
+    "presidentId": "abraham_lincoln",
+    "title": "Gettysburg Address (November 19, 1863)",
+    "date": "1863-11-19",
+    "presidentName": "Abraham Lincoln"
+  },
+  {
+    "id": "third_annual_message_december_8_1863_7eceb5b7778b",
+    "presidentId": "abraham_lincoln",
+    "title": "Third Annual Message (December 8, 1863)",
+    "date": "1863-12-08",
+    "presidentName": "Abraham Lincoln"
+  },
+  {
+    "id": "fourth_annual_message_december_6_1864_0b9b26768b9a",
+    "presidentId": "abraham_lincoln",
+    "title": "Fourth Annual Message (December 6, 1864)",
+    "date": "1864-12-06",
+    "presidentName": "Abraham Lincoln"
+  },
+  {
+    "id": "second_inaugural_address_march_4_1865_54b13380c2d8",
+    "presidentId": "abraham_lincoln",
+    "title": "Second Inaugural Address (March 4, 1865)",
+    "date": "1865-03-04",
+    "presidentName": "Abraham Lincoln"
+  },
+  {
+    "id": "inaugural_address_march_4_1857_a6bcfa743e43",
+    "presidentId": "james_buchanan",
+    "title": "Inaugural Address (March 4, 1857)",
+    "date": "1857-03-04",
+    "presidentName": "James Buchanan"
+  },
+  {
+    "id": "first_annual_message_december_8_1857_aee79169e607",
+    "presidentId": "james_buchanan",
+    "title": "First Annual Message (December 8, 1857)",
+    "date": "1857-12-08",
+    "presidentName": "James Buchanan"
+  },
+  {
+    "id": "second_annual_message_december_6_1858_a73c7744c0ea",
+    "presidentId": "james_buchanan",
+    "title": "Second Annual Message (December 6, 1858)",
+    "date": "1858-12-06",
+    "presidentName": "James Buchanan"
+  },
+  {
+    "id": "third_annual_message_december_19_1859_adf25e607181",
+    "presidentId": "james_buchanan",
+    "title": "Third Annual Message (December 19, 1859)",
+    "date": "1859-12-19",
+    "presidentName": "James Buchanan"
+  },
+  {
+    "id": "fourth_annual_message_december_3_1860_a08694721006",
+    "presidentId": "james_buchanan",
+    "title": "Fourth Annual Message (December 3, 1860)",
+    "date": "1860-12-03",
+    "presidentName": "James Buchanan"
+  },
+  {
+    "id": "inaugural_address_march_4_1853_b1f62ee6ae8a",
+    "presidentId": "franklin_pierce",
+    "title": "Inaugural Address (March 4, 1853)",
+    "date": "1853-03-04",
+    "presidentName": "Franklin Pierce"
+  },
+  {
+    "id": "first_annual_message_december_5_1853_c88ec8b278af",
+    "presidentId": "franklin_pierce",
+    "title": "First Annual Message (December 5, 1853)",
+    "date": "1853-12-05",
+    "presidentName": "Franklin Pierce"
+  },
+  {
+    "id": "proclamation_january_18_1854_d69482d69cb2",
+    "presidentId": "franklin_pierce",
+    "title": "Proclamation (January 18, 1854)",
+    "date": "1854-01-18",
+    "presidentName": "Franklin Pierce"
+  },
+  {
+    "id": "second_annual_message_december_4_1854_351638accf70",
+    "presidentId": "franklin_pierce",
+    "title": "Second Annual Message (December 4, 1854)",
+    "date": "1854-12-04",
+    "presidentName": "Franklin Pierce"
+  },
+  {
+    "id": "third_annual_message_december_31_1855_6d34e71bb939",
+    "presidentId": "franklin_pierce",
+    "title": "Third Annual Message (December 31, 1855)",
+    "date": "1855-12-31",
+    "presidentName": "Franklin Pierce"
+  },
+  {
+    "id": "fourth_annual_message_december_2_1856_4a6f828b9f44",
+    "presidentId": "franklin_pierce",
+    "title": "Fourth Annual Message (December 2, 1856)",
+    "date": "1856-12-02",
+    "presidentName": "Franklin Pierce"
+  },
+  {
+    "id": "first_annual_message_december_2_1850_bfd734769ff4",
+    "presidentId": "millard_fillmore",
+    "title": "First Annual Message (December 2, 1850)",
+    "date": "1850-12-02",
+    "presidentName": "Millard Fillmore"
+  },
+  {
+    "id": "inaugural_address_march_5_1849_64869b54daad",
+    "presidentId": "zachary_taylor",
+    "title": "Inaugural Address (March 5, 1849)",
+    "date": "1849-03-05",
+    "presidentName": "Zachary Taylor"
+  },
+  {
+    "id": "inaugural_address_march_4_1845_3143def3b0c6",
+    "presidentId": "james_polk",
+    "title": "Inaugural Address (March 4, 1845)",
+    "date": "1845-03-04",
+    "presidentName": "James Polk"
+  },
+  {
+    "id": "first_annual_message_december_7_1841_d46daeda346a",
+    "presidentId": "john_tyler",
+    "title": "First Annual Message (December 7, 1841)",
+    "date": "1841-12-07",
+    "presidentName": "John Tyler"
+  },
+  {
+    "id": "inaugural_address_march_4_1841_674939330f6e",
+    "presidentId": "william_harrison",
+    "title": "Inaugural Address (March 4, 1841)",
+    "date": "1841-03-04",
+    "presidentName": "William Harrison"
+  },
+  {
+    "id": "inaugural_address_march_4_1837_a21c13ac3a88",
+    "presidentId": "martin_van_buren",
+    "title": "Inaugural Address (March 4, 1837)",
+    "date": "1837-03-04",
+    "presidentName": "Martin Van Buren"
+  },
+  {
+    "id": "special_session_message_september_4_1837_6d38eb380ca1",
+    "presidentId": "martin_van_buren",
+    "title": "Special Session Message (September 4, 1837)",
+    "date": "1837-09-04",
+    "presidentName": "Martin Van Buren"
+  },
+  {
+    "id": "first_annual_message_to_congress_december_5_1837_05398f5f58fe",
+    "presidentId": "martin_van_buren",
+    "title": "First Annual Message to Congress (December 5, 1837)",
+    "date": "1837-12-05",
+    "presidentName": "Martin Van Buren"
+  },
+  {
+    "id": "proclamation_january_5_1838_178082145ae1",
+    "presidentId": "martin_van_buren",
+    "title": "Proclamation (January 5, 1838)",
+    "date": "1838-01-05",
+    "presidentName": "Martin Van Buren"
+  },
+  {
+    "id": "second_annual_message_to_congress_december_3_183_5fe03d9c52e5",
+    "presidentId": "martin_van_buren",
+    "title": "Second Annual Message to Congress (December 3, 1838)",
+    "date": "1838-12-03",
+    "presidentName": "Martin Van Buren"
+  },
+  {
+    "id": "third_annual_message_to_congress_december_2_1839_8106ba496f16",
+    "presidentId": "martin_van_buren",
+    "title": "Third Annual Message to Congress (December 2, 1839)",
+    "date": "1839-12-02",
+    "presidentName": "Martin Van Buren"
+  },
+  {
+    "id": "fourth_annual_message_to_congress_december_5_184_4df5aff5b380",
+    "presidentId": "martin_van_buren",
+    "title": "Fourth Annual Message to Congress (December 5, 1840)",
+    "date": "1840-12-05",
+    "presidentName": "Martin Van Buren"
+  },
+  {
+    "id": "special_message_january_2_1841_5b33624a1fed",
+    "presidentId": "martin_van_buren",
+    "title": "Special Message (January 2, 1841)",
+    "date": "1841-01-02",
+    "presidentName": "Martin Van Buren"
+  },
+  {
+    "id": "first_inaugural_address_march_4_1829_bae237d4accd",
+    "presidentId": "andrew_jackson",
+    "title": "First Inaugural Address (March 4, 1829)",
+    "date": "1829-03-04",
+    "presidentName": "Andrew Jackson"
+  },
+  {
+    "id": "proclamation_regarding_duties_on_austrian_vessel_d08144b11757",
+    "presidentId": "andrew_jackson",
+    "title": "Proclamation Regarding Duties on Austrian Vessels (May 11, 1829)",
+    "date": "1829-05-11",
+    "presidentName": "Andrew Jackson"
+  },
+  {
+    "id": "first_annual_message_to_congress_december_8_1829_9c08ed10173f",
+    "presidentId": "andrew_jackson",
+    "title": "First Annual Message to Congress (December 8, 1829)",
+    "date": "1829-12-08",
+    "presidentName": "Andrew Jackson"
+  },
+  {
+    "id": "proclamation_regarding_the_opening_of_united_sta_8f3f728e65d8",
+    "presidentId": "andrew_jackson",
+    "title": "Proclamation Regarding the Opening of United States Ports to British Vessels (October 5, 1830)",
+    "date": "1830-10-05",
+    "presidentName": "Andrew Jackson"
+  },
+  {
+    "id": "second_annual_message_to_congress_december_6_183_7944b2f3d41d",
+    "presidentId": "andrew_jackson",
+    "title": "Second Annual Message to Congress (December 6, 1830)",
+    "date": "1830-12-06",
+    "presidentName": "Andrew Jackson"
+  },
+  {
+    "id": "third_annual_message_to_congress_december_6_1831_cd08f6081965",
+    "presidentId": "andrew_jackson",
+    "title": "Third Annual Message to Congress (December 6, 1831)",
+    "date": "1831-12-06",
+    "presidentName": "Andrew Jackson"
+  },
+  {
+    "id": "bank_veto_july_10_1832_7d315dce56c5",
+    "presidentId": "andrew_jackson",
+    "title": "Bank Veto (July 10, 1832)",
+    "date": "1832-07-10",
+    "presidentName": "Andrew Jackson"
+  },
+  {
+    "id": "fourth_annual_message_to_congress_december_4_183_8939c58b3c2a",
+    "presidentId": "andrew_jackson",
+    "title": "Fourth Annual Message to Congress (December 4, 1832)",
+    "date": "1832-12-04",
+    "presidentName": "Andrew Jackson"
+  },
+  {
+    "id": "second_inaugural_address_march_4_1833_bb87aa8c6b11",
+    "presidentId": "andrew_jackson",
+    "title": "Second Inaugural Address (March 4, 1833)",
+    "date": "1833-03-04",
+    "presidentName": "Andrew Jackson"
+  },
+  {
+    "id": "fifth_annual_message_to_congress_december_3_1833_ffdabab651ef",
+    "presidentId": "andrew_jackson",
+    "title": "Fifth Annual Message to Congress (December 3, 1833)",
+    "date": "1833-12-03",
+    "presidentName": "Andrew Jackson"
+  },
+  {
+    "id": "sixth_annual_message_to_congress_december_1_1834_fc3fd42fbc3a",
+    "presidentId": "andrew_jackson",
+    "title": "Sixth Annual Message to Congress (December 1, 1834)",
+    "date": "1834-12-01",
+    "presidentName": "Andrew Jackson"
+  },
+  {
+    "id": "seventh_annual_address_to_congress_december_7_18_7f09d7414c59",
+    "presidentId": "andrew_jackson",
+    "title": "Seventh Annual Address to Congress (December 7, 1835)",
+    "date": "1835-12-07",
+    "presidentName": "Andrew Jackson"
+  },
+  {
+    "id": "eighth_annual_message_to_congress_december_5_183_0d6221873aee",
+    "presidentId": "andrew_jackson",
+    "title": "Eighth Annual Message to Congress (December 5, 1836)",
+    "date": "1836-12-05",
+    "presidentName": "Andrew Jackson"
+  },
+  {
+    "id": "farewell_address_march_4_1837_38e01ad2ccff",
+    "presidentId": "andrew_jackson",
+    "title": "Farewell Address (March 4, 1837)",
+    "date": "1837-03-04",
+    "presidentName": "Andrew Jackson"
+  },
+  {
+    "id": "speech_to_the_u_s_house_of_representatives_on_fo_cd1b17624467",
+    "presidentId": "john_quincy_adams",
+    "title": "Speech to the U.S. House of Representatives on Foreign Policy (July 4, 1821)",
+    "date": "1821-07-04",
+    "presidentName": "John Quincy Adams"
+  },
+  {
+    "id": "inaugural_address_march_4_1825_02bc89d1ea4b",
+    "presidentId": "john_quincy_adams",
+    "title": "Inaugural Address (March 4, 1825)",
+    "date": "1825-03-04",
+    "presidentName": "John Quincy Adams"
+  },
+  {
+    "id": "first_annual_message_december_6_1825_b7674662b81c",
+    "presidentId": "john_quincy_adams",
+    "title": "First Annual Message (December 6, 1825)",
+    "date": "1825-12-06",
+    "presidentName": "John Quincy Adams"
+  },
+  {
+    "id": "second_annual_address_december_5_1826_3b179321b539",
+    "presidentId": "john_quincy_adams",
+    "title": "Second Annual Address (December 5, 1826)",
+    "date": "1826-12-05",
+    "presidentName": "John Quincy Adams"
+  },
+  {
+    "id": "third_annual_message_december_4_1827_4e279ce3df7d",
+    "presidentId": "john_quincy_adams",
+    "title": "Third Annual Message (December 4, 1827)",
+    "date": "1827-12-04",
+    "presidentName": "John Quincy Adams"
+  },
+  {
+    "id": "fourth_annual_message_december_2_1828_825ccc7da43c",
+    "presidentId": "john_quincy_adams",
+    "title": "Fourth Annual Message (December 2, 1828)",
+    "date": "1828-12-02",
+    "presidentName": "John Quincy Adams"
+  },
+  {
+    "id": "first_inaugural_address_march_4_1817_aaa9a144fc45",
+    "presidentId": "james_monroe",
+    "title": "First Inaugural Address (March 4, 1817)",
+    "date": "1817-03-04",
+    "presidentName": "James Monroe"
+  },
+  {
+    "id": "first_annual_message_december_2_1817_d0d014a7168d",
+    "presidentId": "james_monroe",
+    "title": "First Annual Message (December 2, 1817)",
+    "date": "1817-12-02",
+    "presidentName": "James Monroe"
+  },
+  {
+    "id": "second_annual_message_november_16_1818_fcf5e1aa5858",
+    "presidentId": "james_monroe",
+    "title": "Second Annual Message (November 16, 1818)",
+    "date": "1818-11-16",
+    "presidentName": "James Monroe"
+  },
+  {
+    "id": "third_annual_message_december_7_1819_3cf8035bfda6",
+    "presidentId": "james_monroe",
+    "title": "Third Annual Message (December 7, 1819)",
+    "date": "1819-12-07",
+    "presidentName": "James Monroe"
+  },
+  {
+    "id": "fourth_annual_message_november_14_1820_396334fc0904",
+    "presidentId": "james_monroe",
+    "title": "Fourth Annual Message (November 14, 1820)",
+    "date": "1820-11-14",
+    "presidentName": "James Monroe"
+  },
+  {
+    "id": "second_inaugural_address_march_5_1821_54d4c4139eb6",
+    "presidentId": "james_monroe",
+    "title": "Second Inaugural Address (March 5, 1821)",
+    "date": "1821-03-05",
+    "presidentName": "James Monroe"
+  },
+  {
+    "id": "fifth_annual_message_december_3_1821_964c153d0922",
+    "presidentId": "james_monroe",
+    "title": "Fifth Annual Message (December 3, 1821)",
+    "date": "1821-12-03",
+    "presidentName": "James Monroe"
+  },
+  {
+    "id": "sixth_annual_message_december_3_1822_05fe2dfc4a95",
+    "presidentId": "james_monroe",
+    "title": "Sixth Annual Message (December 3, 1822)",
+    "date": "1822-12-03",
+    "presidentName": "James Monroe"
+  },
+  {
+    "id": "seventh_annual_message_monroe_doctrine_december__c5d9f584e0ca",
+    "presidentId": "james_monroe",
+    "title": "Seventh Annual Message (Monroe Doctrine) (December 2, 1823)",
+    "date": "1823-12-02",
+    "presidentName": "James Monroe"
+  },
+  {
+    "id": "eighth_annual_message_december_7_1824_2f876a76491d",
+    "presidentId": "james_monroe",
+    "title": "Eighth Annual Message (December 7, 1824)",
+    "date": "1824-12-07",
+    "presidentName": "James Monroe"
+  },
+  {
+    "id": "first_inaugural_address_march_4_1809_444b8aa15c45",
+    "presidentId": "james_madison",
+    "title": "First Inaugural Address (March 4, 1809)",
+    "date": "1809-03-04",
+    "presidentName": "James Madison"
+  },
+  {
+    "id": "message_on_the_special_congressional_session_sta_151d20282715",
+    "presidentId": "james_madison",
+    "title": "Message on the Special Congressional Session/State of Foreign Affairs (May 23, 1809)",
+    "date": "1809-05-23",
+    "presidentName": "James Madison"
+  },
+  {
+    "id": "first_annual_message_november_29_1809_0c7496dab6fb",
+    "presidentId": "james_madison",
+    "title": "First Annual Message (November 29, 1809)",
+    "date": "1809-11-29",
+    "presidentName": "James Madison"
+  },
+  {
+    "id": "proclamation_occupation_of_west_florida_october__1849822db235",
+    "presidentId": "james_madison",
+    "title": "Proclamation-- Occupation of West Florida (October 27, 1810)",
+    "date": "1810-10-27",
+    "presidentName": "James Madison"
+  },
+  {
+    "id": "second_annual_message_december_5_1810_ed9b15a05de6",
+    "presidentId": "james_madison",
+    "title": "Second Annual Message (December 5, 1810)",
+    "date": "1810-12-05",
+    "presidentName": "James Madison"
+  },
+  {
+    "id": "veto_act_on_incorporating_the_alexandria_protest_e4df5ae3d6ef",
+    "presidentId": "james_madison",
+    "title": "Veto Act on Incorporating the Alexandria Protestant Episcopal Church (February 21, 1811)",
+    "date": "1811-02-21",
+    "presidentName": "James Madison"
+  },
+  {
+    "id": "third_annual_message_november_5_1811_26ff03c309fa",
+    "presidentId": "james_madison",
+    "title": "Third Annual Message (November 5, 1811)",
+    "date": "1811-11-05",
+    "presidentName": "James Madison"
+  },
+  {
+    "id": "special_message_to_congress_on_the_foreign_polic_729d2e3bb2df",
+    "presidentId": "james_madison",
+    "title": "Special Message to Congress on the Foreign Policy Crisis -- War Message (June 1, 1812)",
+    "date": "1812-06-01",
+    "presidentName": "James Madison"
+  },
+  {
+    "id": "proclamation_of_a_state_of_war_with_great_britai_bebb1d5ec8c1",
+    "presidentId": "james_madison",
+    "title": "Proclamation of a State of War with Great Britain (June 19, 1812)",
+    "date": "1812-06-19",
+    "presidentName": "James Madison"
+  },
+  {
+    "id": "proclamation_of_day_of_fasting_and_prayer_july_9_e4363d1aba1c",
+    "presidentId": "james_madison",
+    "title": "Proclamation of Day of Fasting and Prayer (July 9, 1812)",
+    "date": "1812-07-09",
+    "presidentName": "James Madison"
+  },
+  {
+    "id": "fourth_annual_message_november_4_1812_793b5313f31e",
+    "presidentId": "james_madison",
+    "title": "Fourth Annual Message (November 4, 1812)",
+    "date": "1812-11-04",
+    "presidentName": "James Madison"
+  },
+  {
+    "id": "second_inaugural_address_march_4_1813_a663aa8fab26",
+    "presidentId": "james_madison",
+    "title": "Second Inaugural Address (March 4, 1813)",
+    "date": "1813-03-04",
+    "presidentName": "James Madison"
+  },
+  {
+    "id": "message_on_the_special_congressional_session_sta_e084e1091960",
+    "presidentId": "james_madison",
+    "title": "Message on the Special Congressional Session -- State of War and Diplomacy (May 25, 1813)",
+    "date": "1813-05-25",
+    "presidentName": "James Madison"
+  },
+  {
+    "id": "proclamation_on_day_of_public_humiliation_and_pr_d63fa7a973f2",
+    "presidentId": "james_madison",
+    "title": "Proclamation on Day of Public Humiliation and Prayer (July 23, 1813)",
+    "date": "1813-07-23",
+    "presidentName": "James Madison"
+  },
+  {
+    "id": "fifth_annual_message_december_7_1813_0f8cbe3e7214",
+    "presidentId": "james_madison",
+    "title": "Fifth Annual Message (December 7, 1813)",
+    "date": "1813-12-07",
+    "presidentName": "James Madison"
+  },
+  {
+    "id": "proclamation_upon_british_depradations_burning_o_7a1d76882363",
+    "presidentId": "james_madison",
+    "title": "Proclamation upon British Depradations -- Burning of the Capitol (September 1, 1814)",
+    "date": "1814-09-01",
+    "presidentName": "James Madison"
+  },
+  {
+    "id": "sixth_annual_message_september_20_1814_54eaf3fe51a1",
+    "presidentId": "james_madison",
+    "title": "Sixth Annual Message (September 20, 1814)",
+    "date": "1814-09-20",
+    "presidentName": "James Madison"
+  },
+  {
+    "id": "veto_message_on_the_national_bank_january_30_181_e0e8e568c741",
+    "presidentId": "james_madison",
+    "title": "Veto Message on the National Bank (January 30, 1815)",
+    "date": "1815-01-30",
+    "presidentName": "James Madison"
+  },
+  {
+    "id": "special_message_to_congress_on_the_treaty_of_ghe_819985030097",
+    "presidentId": "james_madison",
+    "title": "Special Message to Congress on the Treaty of Ghent (February 18, 1815)",
+    "date": "1815-02-18",
+    "presidentName": "James Madison"
+  },
+  {
+    "id": "seventh_annual_message_december_5_1815_5e21abd61ff6",
+    "presidentId": "james_madison",
+    "title": "Seventh Annual Message (December 5, 1815)",
+    "date": "1815-12-05",
+    "presidentName": "James Madison"
+  },
+  {
+    "id": "eighth_annual_message_december_3_1816_7cd0b1d16c8a",
+    "presidentId": "james_madison",
+    "title": "Eighth Annual Message (December 3, 1816)",
+    "date": "1816-12-03",
+    "presidentName": "James Madison"
+  },
+  {
+    "id": "veto_message_on_the_internal_improvements_bill_m_0b8b397ed129",
+    "presidentId": "james_madison",
+    "title": "Veto Message on the Internal Improvements Bill (March 3, 1817)",
+    "date": "1817-03-03",
+    "presidentName": "James Madison"
+  },
+  {
+    "id": "first_inaugural_address_march_4_1801_06e6fec86e7f",
+    "presidentId": "thomas_jefferson",
+    "title": "First Inaugural Address (March 4, 1801)",
+    "date": "1801-03-04",
+    "presidentName": "Thomas Jefferson"
+  },
+  {
+    "id": "the_reply_to_new_haven_remonstrance_july_12_1801_097eeed11ca5",
+    "presidentId": "thomas_jefferson",
+    "title": "The Reply to New Haven Remonstrance (July 12, 1801)",
+    "date": "1801-07-12",
+    "presidentName": "Thomas Jefferson"
+  },
+  {
+    "id": "first_annual_message_december_8_1801_0565fa7e1928",
+    "presidentId": "thomas_jefferson",
+    "title": "First Annual Message (December 8, 1801)",
+    "date": "1801-12-08",
+    "presidentName": "Thomas Jefferson"
+  },
+  {
+    "id": "response_to_danbury_baptist_association_january__0cb1d6f73101",
+    "presidentId": "thomas_jefferson",
+    "title": "Response to Danbury Baptist Association (January 1, 1802)",
+    "date": "1802-01-01",
+    "presidentName": "Thomas Jefferson"
+  },
+  {
+    "id": "address_to_brother_handsome_lake_november_3_1802_4173b59ea7db",
+    "presidentId": "thomas_jefferson",
+    "title": "Address to Brother Handsome Lake (November 3, 1802)",
+    "date": "1802-11-03",
+    "presidentName": "Thomas Jefferson"
+  },
+  {
+    "id": "second_annual_message_december_15_1802_39b377a24472",
+    "presidentId": "thomas_jefferson",
+    "title": "Second Annual Message (December 15, 1802)",
+    "date": "1802-12-15",
+    "presidentName": "Thomas Jefferson"
+  },
+  {
+    "id": "special_message_to_congress_on_indian_policy_jan_167525a578de",
+    "presidentId": "thomas_jefferson",
+    "title": "Special Message to Congress on Indian Policy (January 18, 1803)",
+    "date": "1803-01-18",
+    "presidentName": "Thomas Jefferson"
+  },
+  {
+    "id": "instructions_to_captain_lewis_june_20_1803_a3aed895639c",
+    "presidentId": "thomas_jefferson",
+    "title": "Instructions to Captain Lewis (June 20, 1803)",
+    "date": "1803-06-20",
+    "presidentName": "Thomas Jefferson"
+  },
+  {
+    "id": "third_annual_message_october_17_1803_078000ef3313",
+    "presidentId": "thomas_jefferson",
+    "title": "Third Annual Message (October 17, 1803)",
+    "date": "1803-10-17",
+    "presidentName": "Thomas Jefferson"
+  },
+  {
+    "id": "address_to_the_brothers_of_choctaw_nation_decemb_4a1910ea2f32",
+    "presidentId": "thomas_jefferson",
+    "title": "Address to the Brothers of Choctaw Nation (December 17, 1803)",
+    "date": "1803-12-17",
+    "presidentName": "Thomas Jefferson"
+  },
+  {
+    "id": "fourth_annual_message_november_8_1804_e36a97004fdc",
+    "presidentId": "thomas_jefferson",
+    "title": "Fourth Annual Message (November 8, 1804)",
+    "date": "1804-11-08",
+    "presidentName": "Thomas Jefferson"
+  },
+  {
+    "id": "second_inaugural_address_march_4_1805_5d43215870bd",
+    "presidentId": "thomas_jefferson",
+    "title": "Second Inaugural Address (March 4, 1805)",
+    "date": "1805-03-04",
+    "presidentName": "Thomas Jefferson"
+  },
+  {
+    "id": "fifth_annual_message_december_3_1805_c4f7aa599229",
+    "presidentId": "thomas_jefferson",
+    "title": "Fifth Annual Message (December 3, 1805)",
+    "date": "1805-12-03",
+    "presidentName": "Thomas Jefferson"
+  },
+  {
+    "id": "special_message_to_congress_on_foreign_policy_de_49ab94709e8a",
+    "presidentId": "thomas_jefferson",
+    "title": "Special Message to Congress on Foreign Policy (December 6, 1805)",
+    "date": "1805-12-06",
+    "presidentName": "Thomas Jefferson"
+  },
+  {
+    "id": "address_to_the_chiefs_of_the_cherokee_nation_jan_009278b28a72",
+    "presidentId": "thomas_jefferson",
+    "title": "Address to the Chiefs of the Cherokee Nation (January 10, 1806)",
+    "date": "1806-01-10",
+    "presidentName": "Thomas Jefferson"
+  },
+  {
+    "id": "proclamation_on_spanish_territory_november_27_18_f2228c59d548",
+    "presidentId": "thomas_jefferson",
+    "title": "Proclamation on Spanish Territory (November 27, 1806)",
+    "date": "1806-11-27",
+    "presidentName": "Thomas Jefferson"
+  },
+  {
+    "id": "sixth_annual_message_december_2_1806_12019c6ba29c",
+    "presidentId": "thomas_jefferson",
+    "title": "Sixth Annual Message (December 2, 1806)",
+    "date": "1806-12-02",
+    "presidentName": "Thomas Jefferson"
+  },
+  {
+    "id": "address_to_the_wolf_and_the_people_of_the_mandan_8e20e71e6265",
+    "presidentId": "thomas_jefferson",
+    "title": "Address to the Wolf and the People of the Mandan Nation (December 30, 1806)",
+    "date": "1806-12-30",
+    "presidentName": "Thomas Jefferson"
+  },
+  {
+    "id": "special_message_to_congress_on_the_burr_conspira_2b2189781f48",
+    "presidentId": "thomas_jefferson",
+    "title": "Special Message to Congress on the Burr Conspiracy (January 22, 1807)",
+    "date": "1807-01-22",
+    "presidentName": "Thomas Jefferson"
+  },
+  {
+    "id": "special_message_to_congress_on_the_gun_boats_feb_8aaadfe32661",
+    "presidentId": "thomas_jefferson",
+    "title": "Special Message to Congress on the Gun Boats (February 10, 1807)",
+    "date": "1807-02-10",
+    "presidentName": "Thomas Jefferson"
+  },
+  {
+    "id": "proclamation_in_response_to_the_chesapeake_affai_12069acbcf3f",
+    "presidentId": "thomas_jefferson",
+    "title": "Proclamation in Response to the Chesapeake Affair (July 2, 1807)",
+    "date": "1807-07-02",
+    "presidentName": "Thomas Jefferson"
+  },
+  {
+    "id": "seventh_annual_message_october_27_1807_e2529110c77e",
+    "presidentId": "thomas_jefferson",
+    "title": "Seventh Annual Message (October 27, 1807)",
+    "date": "1807-10-27",
+    "presidentName": "Thomas Jefferson"
+  },
+  {
+    "id": "eighth_annual_message_november_8_1808_7dfd3be9c9f8",
+    "presidentId": "thomas_jefferson",
+    "title": "Eighth Annual Message (November 8, 1808)",
+    "date": "1808-11-08",
+    "presidentName": "Thomas Jefferson"
+  },
+  {
+    "id": "message_to_the_inhabitants_of_albemarle_county_a_189e84029ae3",
+    "presidentId": "thomas_jefferson",
+    "title": "Message to the Inhabitants of Albemarle County (April 3, 1809)",
+    "date": "1809-04-03",
+    "presidentName": "Thomas Jefferson"
+  },
+  {
+    "id": "inaugural_address_march_4_1797_4c710588d5e5",
+    "presidentId": "john_adams",
+    "title": "Inaugural Address (March 4, 1797)",
+    "date": "1797-03-04",
+    "presidentName": "John Adams"
+  },
+  {
+    "id": "special_session_message_to_congress_xyz_affair_m_25a29b0a2eae",
+    "presidentId": "john_adams",
+    "title": "Special Session Message to Congress (XYZ Affair) (May 16, 1797)",
+    "date": "1797-05-16",
+    "presidentName": "John Adams"
+  },
+  {
+    "id": "first_annual_message_november_22_1797_6c2b36a97dfa",
+    "presidentId": "john_adams",
+    "title": "First Annual Message (November 22, 1797)",
+    "date": "1797-11-22",
+    "presidentName": "John Adams"
+  },
+  {
+    "id": "proclamation_of_day_of_fasting_humiliation_and_p_25742e456c30",
+    "presidentId": "john_adams",
+    "title": "Proclamation of Day of Fasting, Humiliation and Prayer (March 23, 1798)",
+    "date": "1798-03-23",
+    "presidentName": "John Adams"
+  },
+  {
+    "id": "second_annual_message_december_8_1798_77c0f1246cdb",
+    "presidentId": "john_adams",
+    "title": "Second Annual Message (December 8, 1798)",
+    "date": "1798-12-08",
+    "presidentName": "John Adams"
+  },
+  {
+    "id": "third_annual_message_december_3_1799_0d460db6f342",
+    "presidentId": "john_adams",
+    "title": "Third Annual Message (December 3, 1799)",
+    "date": "1799-12-03",
+    "presidentName": "John Adams"
+  },
+  {
+    "id": "death_of_george_washington_december_19_1799_b46e2d299acd",
+    "presidentId": "john_adams",
+    "title": "Death of George Washington (December 19, 1799)",
+    "date": "1799-12-19",
+    "presidentName": "John Adams"
+  },
+  {
+    "id": "proclamation_of_pardons_to_those_engaged_in_frie_8c88cff58194",
+    "presidentId": "john_adams",
+    "title": "Proclamation of Pardons to Those Engaged in Fries Rebellion (May 21, 1800)",
+    "date": "1800-05-21",
+    "presidentName": "John Adams"
+  },
+  {
+    "id": "fourth_annual_message_november_22_1800_ed29ffab7aba",
+    "presidentId": "john_adams",
+    "title": "Fourth Annual Message (November 22, 1800)",
+    "date": "1800-11-22",
+    "presidentName": "John Adams"
+  },
+  {
+    "id": "first_inaugural_address_april_30_1789_27e1b6298ef2",
+    "presidentId": "george_washington",
+    "title": "First Inaugural Address (April 30, 1789)",
+    "date": "1789-04-30",
+    "presidentName": "George Washington"
+  },
+  {
+    "id": "thanksgiving_proclamation_october_3_1789_d83aefc0d4de",
+    "presidentId": "george_washington",
+    "title": "Thanksgiving Proclamation (October 3, 1789)",
+    "date": "1789-10-03",
+    "presidentName": "George Washington"
+  },
+  {
+    "id": "first_annual_message_to_congress_january_8_1790_b38202a818bf",
+    "presidentId": "george_washington",
+    "title": "First Annual Message to Congress (January 8, 1790)",
+    "date": "1790-01-08",
+    "presidentName": "George Washington"
+  },
+  {
+    "id": "second_annual_message_to_congress_december_8_179_ca777282acdc",
+    "presidentId": "george_washington",
+    "title": "Second Annual Message to Congress (December 8, 1790)",
+    "date": "1790-12-08",
+    "presidentName": "George Washington"
+  },
+  {
+    "id": "talk_to_the_chiefs_and_counselors_of_the_seneca__08e86d7d0bda",
+    "presidentId": "george_washington",
+    "title": "Talk to the Chiefs and Counselors of the Seneca Nation (December 29, 1790)",
+    "date": "1790-12-29",
+    "presidentName": "George Washington"
+  },
+  {
+    "id": "third_annual_message_to_congress_october_25_1791_fd06cd6e7de0",
+    "presidentId": "george_washington",
+    "title": "Third Annual Message to Congress (October 25, 1791)",
+    "date": "1791-10-25",
+    "presidentName": "George Washington"
+  },
+  {
+    "id": "veto_message_on_congressional_redistricting_apri_0b13c3993db7",
+    "presidentId": "george_washington",
+    "title": "Veto Message on Congressional Redistricting (April 5, 1792)",
+    "date": "1792-04-05",
+    "presidentName": "George Washington"
+  },
+  {
+    "id": "fourth_annual_message_to_congress_november_6_179_4220e5d0c67c",
+    "presidentId": "george_washington",
+    "title": "Fourth Annual Message to Congress (November 6, 1792)",
+    "date": "1792-11-06",
+    "presidentName": "George Washington"
+  },
+  {
+    "id": "proclamation_against_crimes_against_the_cherokee_e24e01cd273b",
+    "presidentId": "george_washington",
+    "title": "Proclamation Against Crimes Against the Cherokee Nations (December 12, 1792)",
+    "date": "1792-12-12",
+    "presidentName": "George Washington"
+  },
+  {
+    "id": "second_inaugural_address_march_4_1793_d5ef83ee0423",
+    "presidentId": "george_washington",
+    "title": "Second Inaugural Address (March 4, 1793)",
+    "date": "1793-03-04",
+    "presidentName": "George Washington"
+  },
+  {
+    "id": "proclamation_of_neutrality_april_22_1793_c69eeb2de762",
+    "presidentId": "george_washington",
+    "title": "Proclamation of Neutrality (April 22, 1793)",
+    "date": "1793-04-22",
+    "presidentName": "George Washington"
+  },
+  {
+    "id": "fifth_annual_message_to_congress_december_3_1793_a48b447715fe",
+    "presidentId": "george_washington",
+    "title": "Fifth Annual Message to Congress (December 3, 1793)",
+    "date": "1793-12-03",
+    "presidentName": "George Washington"
+  },
+  {
+    "id": "proclamation_against_opposition_to_execution_of__0074ab60ff27",
+    "presidentId": "george_washington",
+    "title": "Proclamation against Opposition to Execution of Laws and Excise Duties in Western Pennsylvania (August 7, 1794)",
+    "date": "1794-08-07",
+    "presidentName": "George Washington"
+  },
+  {
+    "id": "proclamation_of_militia_service_september_25_179_04da0d94356a",
+    "presidentId": "george_washington",
+    "title": "Proclamation of Militia Service (September 25, 1794)",
+    "date": "1794-09-25",
+    "presidentName": "George Washington"
+  },
+  {
+    "id": "sixth_annual_message_to_congress_november_19_179_bbf0cb5826b5",
+    "presidentId": "george_washington",
+    "title": "Sixth Annual Message to Congress (November 19, 1794)",
+    "date": "1794-11-19",
+    "presidentName": "George Washington"
+  },
+  {
+    "id": "proclamation_of_pardons_in_western_pennsylvania__f4288c2690da",
+    "presidentId": "george_washington",
+    "title": "Proclamation of Pardons in Western Pennsylvania (July 10, 1795)",
+    "date": "1795-07-10",
+    "presidentName": "George Washington"
+  },
+  {
+    "id": "seventh_annual_message_to_congress_december_8_17_de11b3cabc22",
+    "presidentId": "george_washington",
+    "title": "Seventh Annual Message to Congress (December 8, 1795)",
+    "date": "1795-12-08",
+    "presidentName": "George Washington"
+  },
+  {
+    "id": "message_to_the_house_of_representatives_declinin_58faf347f075",
+    "presidentId": "george_washington",
+    "title": "Message to the House of Representatives, Declining to Submit Diplomatic Instructions and Correspondence (March 30, 1796)",
+    "date": "1796-03-30",
+    "presidentName": "George Washington"
+  },
+  {
+    "id": "talk_to_the_cherokee_nation_august_29_1796_e5ad60165975",
+    "presidentId": "george_washington",
+    "title": "Talk to the Cherokee Nation (August 29, 1796)",
+    "date": "1796-08-29",
+    "presidentName": "George Washington"
+  },
+  {
+    "id": "farewell_address_september_19_1796_c7d2c39c56f4",
+    "presidentId": "george_washington",
+    "title": "Farewell Address (September 19, 1796)",
+    "date": "1796-09-19",
+    "presidentName": "George Washington"
+  },
+  {
+    "id": "eighth_annual_message_to_congress_december_7_179_e1c97c9d2e3e",
+    "presidentId": "george_washington",
+    "title": "Eighth Annual Message to Congress (December 7, 1796)",
+    "date": "1796-12-07",
+    "presidentName": "George Washington"
+  }
+]

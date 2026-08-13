@@ -1,0 +1,43 @@
+Presidential Speeches - Translation Backend Deploy Guide
+==========================================================
+
+Quick scripts (Windows)
+-----------------------
+  tools\firebase.env.example.bat  -> copy to tools\firebase.env.bat and edit
+  tools\0-check-prerequisites.bat -> Node / Firebase CLI check
+  tools\1-firebase-login.bat      -> Google login (once per PC)
+  tools\2-deploy-functions.bat    -> npm install + build + firebase deploy
+  tools\3-update-app-urls.bat     -> write URLs into app strings.xml
+  tools\deploy-all.bat            -> run step 2 + step 3
+
+Recommended order (first time)
+------------------------------
+  1. Complete manual GCP/Firebase setup in console (steps 1-1 to 1-5)
+     - Enable Cloud Translation API (translation)
+     - Enable Cloud Text-to-Speech API (Neural TTS)
+  2. tools\setup-config.bat              (step 1-6: enter Project ID)
+  3. tools\install-prerequisites.bat     (Firebase CLI, once per PC)
+  4. tools\1-firebase-login.bat
+  5. tools\deploy-all.bat
+  6. Android Studio -> Sync -> Run
+
+When to run step 2 again
+------------------------
+  RE-RUN 2-deploy-functions.bat when:
+    - functions\src\index.ts changed
+    - functions\package.json changed
+    - firebase.json changed
+    - first deploy on a new PC (after login)
+    - deploy failed and you fixed GCP/billing/API settings
+
+  NOT needed when:
+    - only Android UI changed
+    - only AdMob IDs changed
+    - URLs unchanged and backend code unchanged
+
+  RE-RUN 3-update-app-urls.bat when:
+    - project ID or region changed
+    - after first successful deploy (to fill strings.xml)
+    - function names or region changed
+
+  Usually run deploy-all.bat after backend code changes.

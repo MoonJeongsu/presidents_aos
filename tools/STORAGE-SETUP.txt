@@ -1,0 +1,26 @@
+Firebase Storage setup (required once)
+======================================
+
+ERROR: "The specified bucket does not exist" (404)
+  -> Firebase Storage is not created yet, OR bucket name is wrong.
+
+STEP 1 - Browser (required):
+  https://console.firebase.google.com/project/presidential-speeches-a9f00/storage
+  Click "Get started" / "시작하기"
+  Production mode, region: us-central1
+
+STEP 2 - Deploy storage rules:
+  cd C:\projects\usa\PresidentialSpeeches
+  firebase deploy --only storage --project presidential-speeches-a9f00
+
+STEP 3 - Upload speeches (PowerShell):
+  cd C:\projects\usa\PresidentialSpeeches\tools
+  pip install firebase-admin google-cloud-storage
+  gcloud auth application-default login
+  .\upload-speeches-to-storage.bat
+
+The upload script now AUTO-DETECTS the real bucket name
+(e.g. presidential-speeches-a9f00.firebasestorage.app)
+and updates strings.xml for the app.
+
+PowerShell: always use .\upload-speeches-to-storage.bat

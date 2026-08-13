@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">US Presidential Speeches</string>
+
+
+
+    <!-- Replace with your new AdMob App ID from admob.google.com -->
+
+    <string name="admob_app_id" translatable="false">ca-app-pub-2337539333759239~8289158327</string>
+
+    <string name="admob_banner_unit_id" translatable="false">ca-app-pub-2337539333759239/1775720867</string>
+
+    <string name="admob_interstitial_unit_id" translatable="false">ca-app-pub-2337539333759239/8380391735</string>
+
+    <string name="admob_rewarded_unit_id" translatable="false">ca-app-pub-2337539333759239/4560566223</string>
+
+    <!-- Debug builds only: paste hashed device IDs from Logcat (Ads SDK "setTestDeviceIds" message). -->
+    <string-array name="admob_test_device_ids" translatable="false">
+        <item>6C4E6752521C4B13B09992FF00B22B75</item>
+    </string-array>
+
+
+
+    <!-- Set after firebase deploy functions -->
+
+    <string name="translate_function_url" translatable="false">https://us-central1-presidential-speeches-a9f00.cloudfunctions.net/translateSentence</string>
+
+    <string name="grant_bonus_function_url" translatable="false">https://us-central1-presidential-speeches-a9f00.cloudfunctions.net/grantTranslationBonus</string>
+
+    <string name="synthesize_function_url" translatable="false">https://us-central1-presidential-speeches-a9f00.cloudfunctions.net/synthesizeSentence</string>
+
+    <string name="grant_tts_bonus_function_url" translatable="false">https://us-central1-presidential-speeches-a9f00.cloudfunctions.net/grantTtsBonus</string>
+
+    <!-- Firebase Storage bucket for speech bodies (speeches/{id}.txt) -->
+    <string name="firebase_storage_bucket" translatable="false">presidential-speeches-a9f00.firebasestorage.app</string>
+
+    <string name="network_required_title">Network required</string>
+    <string name="network_required_message">This app requires an internet connection. Please connect to the network and try again.</string>
+    <string name="confirm">OK</string>
+    <string name="speech_download_failed">Could not download the speech. Check your connection and try again.</string>
+
+    <string name="speech_detail_title">Speech</string>
+    <string name="back">Back</string>
+
+    <string name="speech_not_available">Speech text is not available.</string>
+
+    <string name="translation_hint">Tap any sentence to see the Korean translation.</string>
+
+    <string name="translation_quota_status">Today: %1$d / %2$d new translations</string>
+
+    <string name="translation_cached_free">Previously translated sentences do not use your daily limit.</string>
+
+    <string name="translation_watch_ad">Watch ad for +20 translations</string>
+
+    <string name="translation_reward_limit">Daily ad bonus limit reached. Try again tomorrow.</string>
+
+    <string name="translation_quota_exceeded">Daily translation limit reached.</string>
+
+    <string name="translating">Translating…</string>
+
+    <string name="korean_translation_label">Korean</string>
+
+    <string name="tts_hint">Tap the speaker icon to hear the sentence in English (Neural voice).</string>
+
+    <string name="tts_quota_status">Today: %1$d / %2$d new speech clips</string>
+
+    <string name="tts_cached_free">Previously heard sentences do not use your daily limit.</string>
+
+    <string name="tts_watch_ad">Watch ad for +20 speech clips</string>
+
+    <string name="tts_reward_limit">Daily speech ad bonus limit reached. Try again tomorrow.</string>
+
+    <string name="tts_quota_exceeded">Daily speech limit reached.</string>
+
+    <string name="speak_sentence">Play sentence audio</string>
+
+</resources>
+
