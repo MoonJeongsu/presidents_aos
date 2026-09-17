@@ -6,22 +6,8 @@
 
 
 
-    <!-- Replace with your new AdMob App ID from admob.google.com -->
-
-    <string name="admob_app_id" translatable="false">ca-app-pub-2337539333759239~8289158327</string>
-
-    <string name="admob_banner_unit_id" translatable="false">ca-app-pub-2337539333759239/1775720867</string>
-
-    <string name="admob_interstitial_unit_id" translatable="false">ca-app-pub-2337539333759239/8380391735</string>
-
-    <string name="admob_rewarded_unit_id" translatable="false">ca-app-pub-2337539333759239/4560566223</string>
-
-    <!-- Debug builds only: paste hashed device IDs from Logcat (Ads SDK "setTestDeviceIds" message). -->
-    <string-array name="admob_test_device_ids" translatable="false">
-        <item>6C4E6752521C4B13B09992FF00B22B75</item>
-    </string-array>
-
-
+    <!-- Cauly media issuance ID (발급 ID) -->
+    <string name="cauly_app_code" translatable="false">joVR3oib</string>
 
     <!-- Set after firebase deploy functions -->
 
@@ -75,6 +61,8 @@
     <string name="tts_quota_exceeded">Daily speech limit reached.</string>
 
     <string name="speak_sentence">Play sentence audio</string>
+
+    <string name="quota_daily_reset_hint"></string>
 
 </resources>
 

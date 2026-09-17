@@ -9,17 +9,39 @@ class TtsQuotaStore(context: Context) {
         prefs.edit()
             .putInt(KEY_QUOTA_USED, used)
             .putInt(KEY_QUOTA_LIMIT, limit)
+            .putString(KEY_DATE, QuotaUtcDate.today())
             .apply()
     }
 
-    fun getQuotaUsed(): Int = prefs.getInt(KEY_QUOTA_USED, 0)
+    fun refreshIfNewUtcDay(): Boolean {
+        val today = QuotaUtcDate.today()
+        val storedDate = prefs.getString(KEY_DATE, null)
+        if (storedDate == today) {
+            return false
+        }
+        prefs.edit()
+            .putInt(KEY_QUOTA_USED, 0)
+            .putInt(KEY_QUOTA_LIMIT, DEFAULT_LIMIT)
+            .putString(KEY_DATE, today)
+            .apply()
+        return true
+    }
 
-    fun getQuotaLimit(): Int = prefs.getInt(KEY_QUOTA_LIMIT, DEFAULT_LIMIT)
+    fun getQuotaUsed(): Int {
+        refreshIfNewUtcDay()
+        return prefs.getInt(KEY_QUOTA_USED, 0)
+    }
+
+    fun getQuotaLimit(): Int {
+        refreshIfNewUtcDay()
+        return prefs.getInt(KEY_QUOTA_LIMIT, DEFAULT_LIMIT)
+    }
 
     companion object {
         private const val PREFS_NAME = "presidential_speeches_prefs"
         private const val KEY_QUOTA_USED = "tts_quota_used"
         private const val KEY_QUOTA_LIMIT = "tts_quota_limit"
+        private const val KEY_DATE = "tts_quota_date"
         const val DEFAULT_LIMIT = 40
     }
 }

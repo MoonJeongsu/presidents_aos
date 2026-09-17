@@ -17,8 +17,7 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
-import com.uspresident.speeches.ads.InterstitialAdManager
-import com.uspresident.speeches.ads.RewardedAdManager
+import com.uspresident.speeches.ads.CaulyInterstitialAdManager
 import com.uspresident.speeches.data.SpeechDetail
 import com.uspresident.speeches.ui.NetworkRequiredDialog
 import com.uspresident.speeches.ui.presidents.PresidentListScreen
@@ -32,8 +31,7 @@ import kotlinx.coroutines.withContext
 
 class MainActivity : ComponentActivity() {
 
-    private lateinit var interstitialAdManager: InterstitialAdManager
-    private lateinit var rewardedAdManager: RewardedAdManager
+    private lateinit var interstitialAdManager: CaulyInterstitialAdManager
 
     override fun onCreate(savedInstanceState: Bundle?) {
         installSplashScreen()
@@ -42,10 +40,7 @@ class MainActivity : ComponentActivity() {
         val app = application as SpeechesApplication
         val repository = app.speechRepository
 
-        interstitialAdManager = InterstitialAdManager(this)
-        interstitialAdManager.loadAd()
-        rewardedAdManager = RewardedAdManager(this)
-        rewardedAdManager.loadAd()
+        interstitialAdManager = CaulyInterstitialAdManager(this)
 
         setContent {
             PresidentialSpeechesTheme {
@@ -132,7 +127,7 @@ class MainActivity : ComponentActivity() {
                                         return SpeechDetailViewModel(
                                             application = application,
                                             onWatchRewardedAd = { onRewardEarned, onFinished ->
-                                                rewardedAdManager.showForReward(
+                                                interstitialAdManager.showForReward(
                                                     onRewardEarned = onRewardEarned,
                                                     onFinished = onFinished,
                                                 )

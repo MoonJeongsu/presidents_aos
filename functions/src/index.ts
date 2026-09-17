@@ -85,6 +85,22 @@ async function persistQuota(state: QuotaState): Promise<void> {
   );
 }
 
+function quotaLimitOf(quota: QuotaState): number {
+  return DAILY_QUOTA + quota.bonus;
+}
+
+async function consumeQuota(quota: QuotaState): Promise<
+  { ok: true; quotaLimit: number } | { ok: false; quotaLimit: number }
+> {
+  const quotaLimit = quotaLimitOf(quota);
+  if (quota.used >= quotaLimit) {
+    return { ok: false, quotaLimit };
+  }
+  quota.used += 1;
+  await persistQuota(quota);
+  return { ok: true, quotaLimit };
+}
+
 function readJsonBody(req: { body?: unknown }): Record<string, unknown> | null {
   if (req.body == null) {
     return null;
@@ -151,19 +167,28 @@ export const translateSentence = onRequest({ cors: true }, async (req, res) => {
     const cacheRef = db.collection("translations").doc(sourceHash);
     const cacheSnap = await cacheRef.get();
     const quota = await getQuotaState("quotas", clientId);
-    const quotaLimit = DAILY_QUOTA + quota.bonus;
 
     if (cacheSnap.exists) {
+      const consumed = await consumeQuota(quota);
+      if (!consumed.ok) {
+        res.status(429).json({
+          error: "quota_exceeded",
+          quotaUsed: quota.used,
+          quotaLimit: consumed.quotaLimit,
+        });
+        return;
+      }
       const cached = cacheSnap.data() ?? {};
       res.status(200).json({
         translatedText: String(cached.translatedText ?? ""),
         fromCache: true,
         quotaUsed: quota.used,
-        quotaLimit,
+        quotaLimit: consumed.quotaLimit,
       });
       return;
     }
 
+    const quotaLimit = quotaLimitOf(quota);
     if (quota.used >= quotaLimit) {
       res.status(429).json({
         error: "quota_exceeded",
@@ -274,18 +299,27 @@ export const synthesizeSentence = onRequest({ cors: true }, async (req, res) => 
     const sourceHash = hashText(text);
     const cachedAudioUrl = await getAudioUrlIfCached(sourceHash);
     const quota = await getQuotaState("tts_quotas", clientId);
-    const quotaLimit = DAILY_QUOTA + quota.bonus;
 
     if (cachedAudioUrl != null) {
+      const consumed = await consumeQuota(quota);
+      if (!consumed.ok) {
+        res.status(429).json({
+          error: "quota_exceeded",
+          quotaUsed: quota.used,
+          quotaLimit: consumed.quotaLimit,
+        });
+        return;
+      }
       res.status(200).json({
         audioUrl: cachedAudioUrl,
         fromCache: true,
         quotaUsed: quota.used,
-        quotaLimit,
+        quotaLimit: consumed.quotaLimit,
       });
       return;
     }
 
+    const quotaLimit = quotaLimitOf(quota);
     if (quota.used >= quotaLimit) {
       res.status(429).json({
         error: "quota_exceeded",

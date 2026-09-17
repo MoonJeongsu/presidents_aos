@@ -1,10 +1,6 @@
 package com.uspresident.speeches
 
 import android.app.Application
-import android.content.pm.ApplicationInfo
-import android.util.Log
-import com.google.android.gms.ads.MobileAds
-import com.google.android.gms.ads.RequestConfiguration
 import com.uspresident.speeches.data.ClientIdProvider
 import com.uspresident.speeches.data.SpeechBodyFetcher
 import com.uspresident.speeches.data.SpeechRepository
@@ -29,8 +25,6 @@ class SpeechesApplication : Application() {
 
     override fun onCreate() {
         super.onCreate()
-        configureAdMobTestDevices()
-        MobileAds.initialize(this)
 
         val speechBodyFetcher = SpeechBodyFetcher(this)
         speechRepository = SpeechRepository(this, speechBodyFetcher)
@@ -57,39 +51,5 @@ class SpeechesApplication : Application() {
             quotaStore = TtsQuotaStore(this),
             clientIdProvider = ClientIdProvider(this),
         )
-    }
-
-    private fun configureAdMobTestDevices() {
-        if (!isDebugBuild()) {
-            return
-        }
-
-        val testDeviceIds = resources.getStringArray(R.array.admob_test_device_ids)
-            .map { it.trim() }
-            .filter { it.isNotEmpty() }
-
-        if (testDeviceIds.isEmpty()) {
-            Log.i(
-                TAG,
-                "AdMob test devices not configured. After the first ad request, check Logcat for " +
-                    "setTestDeviceIds and add the ID to admob_test_device_ids in strings.xml.",
-            )
-            return
-        }
-
-        MobileAds.setRequestConfiguration(
-            RequestConfiguration.Builder()
-                .setTestDeviceIds(testDeviceIds)
-                .build(),
-        )
-        Log.i(TAG, "AdMob test devices registered: ${testDeviceIds.size}")
-    }
-
-    private fun isDebugBuild(): Boolean {
-        return (applicationInfo.flags and ApplicationInfo.FLAG_DEBUGGABLE) != 0
-    }
-
-    companion object {
-        private const val TAG = "SpeechesApplication"
     }
 }

@@ -72,6 +72,8 @@ class SpeechDetailViewModel(
 
     fun setSpeechBody(body: String) {
         audioPlayer.stop()
+        val translationReset = translationRepository.refreshDailyQuotaIfNeeded()
+        val ttsReset = ttsRepository.refreshDailyQuotaIfNeeded()
         val sentences = SentenceSplitter.split(body).mapIndexed { index, text ->
             SentenceUiState(index = index, text = text)
         }
@@ -83,7 +85,33 @@ class SpeechDetailViewModel(
                 quotaLimit = translationRepository.getCachedQuotaLimit(),
                 ttsQuotaUsed = ttsRepository.getCachedQuotaUsed(),
                 ttsQuotaLimit = ttsRepository.getCachedQuotaLimit(),
+                rewardLimitReached = if (translationReset) false else it.rewardLimitReached,
+                ttsRewardLimitReached = if (ttsReset) false else it.ttsRewardLimitReached,
                 pendingTtsRetryIndex = null,
+            )
+        }
+    }
+
+    fun refreshDailyQuotaIfNeeded() {
+        val translationReset = translationRepository.refreshDailyQuotaIfNeeded()
+        val ttsReset = ttsRepository.refreshDailyQuotaIfNeeded()
+        if (!translationReset && !ttsReset) {
+            return
+        }
+        _uiState.update { state ->
+            state.copy(
+                quotaUsed = translationRepository.getCachedQuotaUsed(),
+                quotaLimit = translationRepository.getCachedQuotaLimit(),
+                ttsQuotaUsed = ttsRepository.getCachedQuotaUsed(),
+                ttsQuotaLimit = ttsRepository.getCachedQuotaLimit(),
+                rewardLimitReached = if (translationReset) false else state.rewardLimitReached,
+                ttsRewardLimitReached = if (ttsReset) false else state.ttsRewardLimitReached,
+                sentences = state.sentences.map { sentence ->
+                    sentence.copy(
+                        quotaExceeded = if (translationReset) false else sentence.quotaExceeded,
+                        ttsQuotaExceeded = if (ttsReset) false else sentence.ttsQuotaExceeded,
+                    )
+                },
             )
         }
     }

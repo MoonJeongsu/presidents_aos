@@ -26,9 +26,9 @@ android {
 
         targetSdk = 36
 
-        versionCode = 2
+        versionCode = 4
 
-        versionName = "1.0.1"
+        versionName = "1.0.3"
 
     }
 
@@ -132,7 +132,9 @@ dependencies {
 
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.1")
 
-    implementation("com.google.android.gms:play-services-ads:23.6.0")
+    implementation("com.fsn.cauly:cauly-sdk:3.5.41")
+    implementation("com.google.android.gms:play-services-ads-identifier:18.1.0")
+    implementation("com.google.android.gms:play-services-appset:16.1.0")
 
     implementation("com.squareup.okhttp3:okhttp:4.12.0")
 

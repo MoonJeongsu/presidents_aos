@@ -24,7 +24,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import com.uspresident.speeches.ads.AdMobBannerView
+import com.uspresident.speeches.ads.CaulyBannerView
 import com.uspresident.speeches.data.SpeechSummary
 import java.time.LocalDate
 import java.time.format.DateTimeFormatter
@@ -55,7 +55,7 @@ fun SpeechListScreen(
             )
         },
         bottomBar = {
-            AdMobBannerView()
+            CaulyBannerView()
         },
     ) { padding ->
         LazyColumn(

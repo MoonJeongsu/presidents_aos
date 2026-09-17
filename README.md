@@ -3,7 +3,7 @@
 Modern Android app for browsing US presidential speeches.
 
 - Package: `com.uspresident.speeches`
-- Ads: Google AdMob only (no Cauly)
+- Ads: Cauly (banner + interstitial)
 
 ## Features
 
@@ -11,19 +11,17 @@ Modern Android app for browsing US presidential speeches.
 - List of 43 US presidents
 - Speeches sorted by date for each president
 - Full speech text viewer
-- AdMob banner on list screens
-- AdMob interstitial when opening a speech
+- Cauly banner on list screens
+- Cauly interstitial when opening a speech
+- Cauly interstitial for translation/TTS quota bonus
 
-## AdMob setup
+## Cauly setup
 
-1. Create a new app in [AdMob](https://admob.google.com) with package `com.uspresident.speeches`.
-2. Create banner and interstitial ad units.
-3. Replace the placeholder values in `app/src/main/res/values/strings.xml`:
-   - `admob_app_id`
-   - `admob_banner_unit_id`
-   - `admob_interstitial_unit_id`
+1. Media issuance ID (`cauly_app_code`) is set in `app/src/main/res/values/strings.xml` to `joVR3oib`.
+2. Maven repo: `https://cauly.github.io/cauly-sdk-android-maven/maven-repo`
+3. Upload the Cauly `app-ads.txt` from the Cauly dashboard to your developer domain if required.
 
-The current values are Google's official test IDs for development.
+Interstitials are request-on-show (no preload). On failure or timeout the app continues to the intended screen/action.
 
 ## Regenerate speech data
 

@@ -114,6 +114,8 @@ class TtsRepository(
 
     fun getCachedQuotaLimit(): Int = quotaStore.getQuotaLimit()
 
+    fun refreshDailyQuotaIfNeeded(): Boolean = quotaStore.refreshIfNewUtcDay()
+
     private fun downloadAudio(url: String, destination: File): Result<Unit> {
         val request = Request.Builder().url(url).get().build()
         return try {

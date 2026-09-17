@@ -105,4 +105,6 @@ class TranslationRepository(
     fun getCachedQuotaUsed(): Int = quotaStore.getQuotaUsed()
 
     fun getCachedQuotaLimit(): Int = quotaStore.getQuotaLimit()
+
+    fun refreshDailyQuotaIfNeeded(): Boolean = quotaStore.refreshIfNewUtcDay()
 }
