@@ -17,7 +17,7 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
-import com.uspresident.speeches.ads.CaulyInterstitialAdManager
+import com.uspresident.speeches.ads.AdsManager
 import com.uspresident.speeches.data.SpeechDetail
 import com.uspresident.speeches.ui.NetworkRequiredDialog
 import com.uspresident.speeches.ui.presidents.PresidentListScreen
@@ -31,7 +31,7 @@ import kotlinx.coroutines.withContext
 
 class MainActivity : ComponentActivity() {
 
-    private lateinit var interstitialAdManager: CaulyInterstitialAdManager
+    private lateinit var adsManager: AdsManager
 
     override fun onCreate(savedInstanceState: Bundle?) {
         installSplashScreen()
@@ -40,7 +40,8 @@ class MainActivity : ComponentActivity() {
         val app = application as SpeechesApplication
         val repository = app.speechRepository
 
-        interstitialAdManager = CaulyInterstitialAdManager(this)
+        adsManager = AdsManager(this)
+        adsManager.initialize()
 
         setContent {
             PresidentialSpeechesTheme {
@@ -83,9 +84,8 @@ class MainActivity : ComponentActivity() {
                                 speeches = speeches,
                                 onBack = { navController.popBackStack() },
                                 onSpeechClick = { speech ->
-                                    interstitialAdManager.showThenNavigate {
-                                        navController.navigate("speech/${speech.id}")
-                                    }
+                                    navController.navigate("speech/${speech.id}")
+                                    adsManager.showInterstitial()
                                 },
                             )
                         }
@@ -127,7 +127,7 @@ class MainActivity : ComponentActivity() {
                                         return SpeechDetailViewModel(
                                             application = application,
                                             onWatchRewardedAd = { onRewardEarned, onFinished ->
-                                                interstitialAdManager.showForReward(
+                                                adsManager.showForReward(
                                                     onRewardEarned = onRewardEarned,
                                                     onFinished = onFinished,
                                                 )

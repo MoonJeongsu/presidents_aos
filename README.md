@@ -3,7 +3,7 @@
 Modern Android app for browsing US presidential speeches.
 
 - Package: `com.uspresident.speeches`
-- Ads: Cauly (banner + interstitial)
+- Ads: Cauly banner waterfall (Cauly → Pangle → Unity) + interstitial waterfall (Cauly → Pangle → Unity)
 
 ## Features
 
@@ -11,17 +11,15 @@ Modern Android app for browsing US presidential speeches.
 - List of 43 US presidents
 - Speeches sorted by date for each president
 - Full speech text viewer
-- Cauly banner on list screens
-- Cauly interstitial when opening a speech
-- Cauly interstitial for translation/TTS quota bonus
+- Banner waterfall on list screens (Cauly → Pangle → Unity)
+- Interstitial waterfall after opening a speech (navigate first, then ad)
+- Interstitial waterfall for translation/TTS quota bonus
 
-## Cauly setup
+## Ad setup
 
-1. Media issuance ID (`cauly_app_code`) is set in `app/src/main/res/values/strings.xml` to `joVR3oib`.
-2. Maven repo: `https://cauly.github.io/cauly-sdk-android-maven/maven-repo`
-3. Upload the Cauly `app-ads.txt` from the Cauly dashboard to your developer domain if required.
+IDs are in `app/build.gradle.kts` `BuildConfig` fields (`CAULY_*`, `PANGLE_*`, `UNITY_*`).
 
-Interstitials are request-on-show (no preload). On failure or timeout the app continues to the intended screen/action.
+Interstitials are request-on-show for Cauly, then Pangle, then Unity on failure. UI is never blocked waiting for an ad.
 
 ## Regenerate speech data
 
